@@ -1,0 +1,317 @@
+- generic [active] [ref=f98e1]:
+  - generic:
+    - generic:
+      - link "跳到主要内容" [ref=f98e2] [cursor=pointer]
+      - link "无障碍功能帮助" [ref=f98e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=zh-CN
+  - generic [ref=f98e8]:
+    - search [ref=f98e9]:
+      - generic [ref=f98e11]:
+        - link "Google 首页" [ref=f98e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=zh-CN&sa=X&ved=2ahUKEwiw0pXGx-GWAxVHIkQIHchPIBUQPHoECAYQBA
+        - generic [ref=f98e21]:
+          - generic [ref=f98e22]:
+            - combobox "搜索" [ref=f98e25]: site:zhipin.com/job_detail "Agent" "实习" site:zhipin.com/job_detail "Agent" "实习"
+            - generic [ref=f98e26]:
+              - button "清除" [ref=f98e28] [cursor=pointer]
+              - generic [ref=f98e33]:
+                - button "按语音搜索" [ref=f98e34] [cursor=pointer]
+                - button "按图搜索" [ref=f98e37] [cursor=pointer]
+          - button "搜索" [ref=f98e40] [cursor=pointer]
+    - generic [ref=f98e45]:
+      - button "设置" [ref=f98e47] [cursor=pointer]
+      - button "分享" [ref=f98e53] [cursor=pointer]
+      - generic [ref=f98e59]:
+        - button "Google 应用" [ref=f98e61] [cursor=pointer]
+        - link "登录" [ref=f98e66] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=zh-CN&passive=true&continue=https://www.google.com/search%3Fq%3Dsite%253Azhipin.com%252Fjob_detail%2B%2522Agent%2522%2B%2522%25E5%25AE%259E%25E4%25B9%25A0%2522&ec=futura_srp_og_si_72236_p
+  - generic [ref=f98e69]:
+    - navigation [ref=f98e75]:
+      - generic [ref=f98e81]:
+        - list [ref=f98e82]:
+          - listitem [ref=f98e83]:
+            - link "AI 模式" [ref=f98e86] [cursor=pointer]:
+              - /url: /search?q=site:zhipin.com/job_detail+%22Agent%22+%22%E5%AE%9E%E4%B9%A0%22&sca_esv=764968ad403c3aa0&sxsrf=APpeQnuk93EwKhRgnKmKXSKJX8-jwyl1kg:1788958984209&udm=50&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq47wBYJakKeLLdnl3gdJ3GnsvmTYk88xLyA60ZU8Y1tE_G14Zs8KcW4SsIAQQIFe1PnfC3Q8kqYEw6cNxOtsaqpXitBWiJBb_BtT1YV-ajBLT3GbW4jcrNUaPdgnz2_81j3lk1xGD1j8K_aUjh5mD1lEMjIwzUw9S72Hb7u640eKRD05dw&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiw0pXGx-GWAxVHIkQIHchPIBUQ2J8OegQIExAD
+          - listitem [ref=f98e90]:
+            - link "全部" [disabled] [ref=f98e91]
+          - listitem [ref=f98e94]:
+            - link "图片" [ref=f98e95] [cursor=pointer]:
+              - /url: /search?sca_esv=764968ad403c3aa0&sxsrf=APpeQnuk93EwKhRgnKmKXSKJX8-jwyl1kg:1788958984209&udm=2&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq47wBYJakKeLLdnl3gdJ3GnsvmTYk88xLyA60ZU8Y1tE_G14Zs8KcW4SsIAQQIFe1PnfC3Q8kqYEw6cNxOtsaqpXitBWiJBb_BtT1YV-ajBLT3GbW4jcrNUaPdgnz2_81j3lk1xGD1j8K_aUjh5mD1lEMjIwzUw9S72Hb7u640eKRD05dw&q=site:zhipin.com/job_detail+%22Agent%22+%22%E5%AE%9E%E4%B9%A0%22&sa=X&ved=2ahUKEwiw0pXGx-GWAxVHIkQIHchPIBUQtKgLegQIGRAB
+          - listitem [ref=f98e98]:
+            - link "新闻" [ref=f98e99] [cursor=pointer]:
+              - /url: /search?sca_esv=764968ad403c3aa0&sxsrf=APpeQnuk93EwKhRgnKmKXSKJX8-jwyl1kg:1788958984209&q=site:zhipin.com/job_detail+%22Agent%22+%22%E5%AE%9E%E4%B9%A0%22&tbm=nws&source=lnms&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq47wBYJakKeLLdnl3gdJ3GnsvmTYk88xLyA60ZU8Y1tE_G14Zs8KcW4SsIAQQIFe1PnfC3Q8kqYEw6cNxOtsaqpXitBWiJBb_BtT1YV-ajBLT3GbW4jcrNUaPdgnz2_81j3lk1xGD1j8K_aUjh5mD1lEMjIwzUw9S72Hb7u640eKRD05dw&sa=X&ved=2ahUKEwiw0pXGx-GWAxVHIkQIHchPIBUQ0pQJegQIGBAB
+          - listitem [ref=f98e102]:
+            - link "视频" [ref=f98e103] [cursor=pointer]:
+              - /url: /search?sca_esv=764968ad403c3aa0&sxsrf=APpeQnuk93EwKhRgnKmKXSKJX8-jwyl1kg:1788958984209&udm=7&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq47wBYJakKeLLdnl3gdJ3GnsvmTYk88xLyA60ZU8Y1tE_G14Zs8KcW4SsIAQQIFe1PnfC3Q8kqYEw6cNxOtsaqpXitBWiJBb_BtT1YV-ajBLT3GbW4jcrNUaPdgnz2_81j3lk1xGD1j8K_aUjh5mD1lEMjIwzUw9S72Hb7u640eKRD05dw&q=site:zhipin.com/job_detail+%22Agent%22+%22%E5%AE%9E%E4%B9%A0%22&sa=X&ved=2ahUKEwiw0pXGx-GWAxVHIkQIHchPIBUQtKgLegQIFxAB
+          - listitem [ref=f98e106]:
+            - link "购物" [ref=f98e107] [cursor=pointer]:
+              - /url: /search?sca_esv=764968ad403c3aa0&sxsrf=APpeQnuk93EwKhRgnKmKXSKJX8-jwyl1kg:1788958984209&udm=28&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq47wBYJakKeLLdnl3gdJ3GnsvmTYk88xLyA60ZU8Y1tE_G14Zs8KcW4SsIAQQIFe1PnfC3Q8kqYEw6cNxOtsaqpXitBWiJBb_BtT1YV-ajBLT3GbW4jcrNUaPdgnz2_81j3lk1xGD1j8K_aUjh5mD1lEMjIwzUw9S72Hb7u640eKRD05dw&q=site:zhipin.com/job_detail+%22Agent%22+%22%E5%AE%9E%E4%B9%A0%22&ved=1t:220175&ictx=111
+          - listitem [ref=f98e110]:
+            - link "短视频" [ref=f98e111] [cursor=pointer]:
+              - /url: /search?sca_esv=764968ad403c3aa0&sxsrf=APpeQnuk93EwKhRgnKmKXSKJX8-jwyl1kg:1788958984209&udm=39&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq47wBYJakKeLLdnl3gdJ3GnsvmTYk88xLyA60ZU8Y1tE_G14Zs8KcW4SsIAQQIFe1PnfC3Q8kqYEw6cNxOtsaqpXitBWiJBb_BtT1YV-ajBLT3GbW4jcrNUaPdgnz2_81j3lk1xGD1j8K_aUjh5mD1lEMjIwzUw9S72Hb7u640eKRD05dw&q=site:zhipin.com/job_detail+%22Agent%22+%22%E5%AE%9E%E4%B9%A0%22&sa=X&ved=2ahUKEwiw0pXGx-GWAxVHIkQIHchPIBUQs6gLegQIFRAB
+          - listitem [ref=f98e114]:
+            - button [ref=f98e115] [cursor=pointer]:
+              - generic "更多过滤条件" [ref=f98e116]: 更多
+        - button "工具" [ref=f98e123] [cursor=pointer]
+    - heading "搜索结果" [level=1] [ref=f98e130]
+    - main [ref=f98e136]:
+      - generic [ref=f98e140]:
+        - generic [ref=f98e143]:
+          - heading "网页搜索结果" [level=2] [ref=f98e144]
+          - generic [ref=f98e145]:
+            - generic [ref=f98e148]:
+              - link "AI Agent 算法实习生（LLM方向）有前途吗 BOSS直聘 https://www.zhipin.com › job_detail" [ref=f98e150] [cursor=pointer]:
+                - /url: /goto?url=CAESewHrOzAVkzcx9qdVAolTojLLv-CwjglT2stuuAJj0RermYDfAVOr45cIW7Vdc-qHKl301kw_O1rvziUrK8VyneceuEdpi6MuScyv67Wqoo14BAExU20NTU1Di8_yLxB2g3G-g5ubJ3zItQEHkbbsTMvO1Fdt1Udrks5pAQ
+                - heading "AI Agent 算法实习生（LLM方向）有前途吗" [level=3] [ref=f98e151]
+                - generic [ref=f98e157]:
+                  - generic [ref=f98e158]: BOSS直聘
+                  - generic [ref=f98e160]: https://www.zhipin.com › job_detail
+              - button "关于这条结果的详细信息" [ref=f98e166] [cursor=pointer]
+            - generic [ref=f98e172]:
+              - generic [ref=f98e173]: 2026年8月4日 —
+              - generic [ref=f98e174]:
+                - text: ...
+                - emphasis [ref=f98e175]: Agent
+                - text: 算法
+                - emphasis [ref=f98e176]: 实习
+                - text: 生（LLM方向）招聘. AI
+                - emphasis [ref=f98e177]: Agent
+                - text: 算法
+                - emphasis [ref=f98e178]: 实习
+                - text: 生（LLM方向）. 杭州4天/周3个月硕士. LLM
+                - emphasis [ref=f98e179]: Agent
+                - text: 大模型 微调 RAG 算法. 职位已关闭. 黄先生. 感兴趣.
+        - generic [ref=f98e183]:
+          - generic [ref=f98e186]:
+            - link "AI Agent开发- 华港财富2026年暑期实习生 BOSS直聘 https://www.zhipin.com › job_detail" [ref=f98e188] [cursor=pointer]:
+              - /url: /goto?url=CAESewHrOzAVdBIBUtBkN2tkCjxdtoxKjIub4Ed5ztl0dVH6jTbOTAp8CYm_02bAI9ppzPrvSo9YeyyVec6rY1oGMmFIz-b6vnEUIr_ZGFqVj0UVZ3F9v9ulJ6ogKUMEUBPtwfIXXYZW5PKsrjosQKkcuDSR9k6-NCr9EXkV-w
+              - heading "AI Agent开发- 华港财富2026年暑期实习生" [level=3] [ref=f98e189]
+              - generic [ref=f98e195]:
+                - generic [ref=f98e196]: BOSS直聘
+                - generic [ref=f98e198]: https://www.zhipin.com › job_detail
+            - button "关于这条结果的详细信息" [ref=f98e204] [cursor=pointer]
+          - generic [ref=f98e210]:
+            - generic [ref=f98e211]: 1天前 —
+            - generic [ref=f98e212]:
+              - text: 职位概述我们正在寻找对AI
+              - emphasis [ref=f98e213]: Agent
+              - text: 充满热情的暑期
+              - emphasis [ref=f98e214]: 实习
+              - text: 生，参与我们的AI
+              - emphasis [ref=f98e215]: Agent
+              - text: 和Workflow系统开发。您将有机会接触
+              - emphasis [ref=f98e216]: Agent
+              - text: 在真实行业的实际落地，参与真实 ...
+        - generic [ref=f98e220]:
+          - generic [ref=f98e223]:
+            - link "前沿Agent算法实习生 BOSS直聘 https://www.zhipin.com › job_detail" [ref=f98e225] [cursor=pointer]:
+              - /url: /goto?url=CAESewHrOzAVmAV5vKr6LP0wIiaYXyWdFHf0QWmwvclA6B2MmgcsSE0hzA2Ebs1cxzJxs6bvYYKgFFOTxbZD7lZ7tBx8N6YVKFv_thb8GJPlZ0bkbkqmwt6jDAoqwjP76LQgNKaRKvtEZsYmxUAJTcqYBfJljpJeFUp2VxAJsg
+              - heading "前沿Agent算法实习生" [level=3] [ref=f98e226]
+              - generic [ref=f98e232]:
+                - generic [ref=f98e233]: BOSS直聘
+                - generic [ref=f98e235]: https://www.zhipin.com › job_detail
+            - button "关于这条结果的详细信息" [ref=f98e241] [cursor=pointer]
+          - generic [ref=f98e248]:
+            - text: ...
+            - emphasis [ref=f98e249]: Agent
+            - text: 算法
+            - emphasis [ref=f98e250]: 实习
+            - text: 生相关招聘请登录BOSS ... 前沿
+            - emphasis [ref=f98e251]: Agent
+            - text: 算法
+            - emphasis [ref=f98e252]: 实习
+            - text: 生. 北京4天/周3个月硕士.
+            - emphasis [ref=f98e253]: Agent
+            - text: 大模型算法 自然语言处理算法 多模态算法 大数据处理框架(Spark ...
+        - generic [ref=f98e257]:
+          - generic [ref=f98e260]:
+            - link "日常实习」妙动科技2026年Agent产品工程师 BOSS直聘 https://www.zhipin.com › job_detail" [ref=f98e262] [cursor=pointer]:
+              - /url: /goto?url=CAESewHrOzAVxiP-fP2adXvXu3GUVKeYY8txlzaE6jLfK2iokfEnIWMzcNhY3Fxf62xjpQqvikk1pDHD4WaT07oKtRPs0qfg2fB3UF2354PaPNM2pIwZIISX4pEEfoHUFGXMUM2O5CBT35tIuapnodCCUUgL1WzNcXn3Hpq4Gw
+              - heading "日常实习」妙动科技2026年Agent产品工程师" [level=3] [ref=f98e263]
+              - generic [ref=f98e269]:
+                - generic [ref=f98e270]: BOSS直聘
+                - generic [ref=f98e272]: https://www.zhipin.com › job_detail
+            - button "关于这条结果的详细信息" [ref=f98e278] [cursor=pointer]
+          - generic [ref=f98e285]:
+            - text: BOSS直聘为您提供
+            - emphasis [ref=f98e286]: Agent
+            - text: 产品工程师-日常
+            - emphasis [ref=f98e287]: 实习
+            - text: 以及妙动科技2026年
+            - emphasis [ref=f98e288]: Agent
+            - text: 产品工程师-日常
+            - emphasis [ref=f98e289]: 实习
+            - text: 岗位职责的信息,更多关于妙动科技对
+            - emphasis [ref=f98e290]: Agent
+            - text: 产品工程师-日常
+            - emphasis [ref=f98e291]: 实习
+            - text: 的招聘要求、岗位 ...
+        - generic [ref=f98e295]:
+          - generic [ref=f98e298]:
+            - link "Agent算法实习生-Dev AI招聘工资 BOSS直聘 https://www.zhipin.com › job_detail" [ref=f98e300] [cursor=pointer]:
+              - /url: /goto?url=CAESewHrOzAViDiofU0q78IS56rh8x98tcW9uBnhqHS6Ihv6J-zGwBvOA9masIIQNWSpCVb2hn1bxCiCizpBXl01zD0_UW_ryVDS4IBjjtrmwZURcuS5mSz-itQIcz0kN-s4atazMnS3OdI3RQ2zwDLoDKghldnKFScY2S18nQ
+              - heading "Agent算法实习生-Dev AI招聘工资" [level=3] [ref=f98e301]
+              - generic [ref=f98e307]:
+                - generic [ref=f98e308]: BOSS直聘
+                - generic [ref=f98e310]: https://www.zhipin.com › job_detail
+            - button "关于这条结果的详细信息" [ref=f98e316] [cursor=pointer]
+          - generic [ref=f98e323]:
+            - text: BOSS直聘为您提供
+            - emphasis [ref=f98e324]: Agent
+            - text: 算法
+            - emphasis [ref=f98e325]: 实习
+            - text: 生-Dev AI招聘工资以及字节跳动2026年
+            - emphasis [ref=f98e326]: Agent
+            - text: 算法
+            - emphasis [ref=f98e327]: 实习
+            - text: 生-Dev AI工资待遇的信息,更多关于字节跳动对
+            - emphasis [ref=f98e328]: Agent
+            - text: 算法
+            - emphasis [ref=f98e329]: 实习
+            - text: 生-Dev AI的招聘要求、 ...
+        - generic [ref=f98e333]:
+          - generic [ref=f98e336]:
+            - link "「后端工程/ Agent 实习生招聘」_向纺未来招聘 BOSS直聘 https://www.zhipin.com › job_detail" [ref=f98e338] [cursor=pointer]:
+              - /url: /goto?url=CAESewHrOzAVNdQdukSiTb71ua5rIplFb0ZtYLjzk9cysOlOC9nwOEZp_M-kPEqsd-0sWi1ezuuF-LQyzk47vSXfOJFLrNu6q2hNscQR-Hhbb_Y3CpUhxVdP5ze28lddRDhXOkn_ZSG6a7rOj-f5nipEvEdL5wPV1sO5JfhJ3Q
+              - heading "「后端工程/ Agent 实习生招聘」_向纺未来招聘" [level=3] [ref=f98e339]
+              - generic [ref=f98e345]:
+                - generic [ref=f98e346]: BOSS直聘
+                - generic [ref=f98e348]: https://www.zhipin.com › job_detail
+            - button "关于这条结果的详细信息" [ref=f98e354] [cursor=pointer]
+          - generic [ref=f98e360]:
+            - generic [ref=f98e361]: 4天前 —
+            - generic [ref=f98e362]:
+              - text: 向纺未来后端工程/
+              - emphasis [ref=f98e363]: Agent 实习
+              - text: 生招聘，薪资：，地点：深圳，要求：在校/应届，学历：本科，福利：有无线网、团建聚餐、零食下午茶、餐补、股票期权、 ...
+        - generic [ref=f98e367]:
+          - generic [ref=f98e370]:
+            - link "Agent实习开发工程师- 携程集团招聘 BOSS直聘 https://www.zhipin.com › job_detail" [ref=f98e372] [cursor=pointer]:
+              - /url: /goto?url=CAESewHrOzAVy-WgxYr_EMVB_BMcuBdFEc-uEZMR9vVU1RN3VeBfk48ks-G4_VUzb54AuOHd9XAnX2DbYB5_7cL0cwHdyY0q1HGuLmxJ_LqNy0KXUY87PWLeHic_gdKrRMlMZApYz7eUWIvJ5E-caRBL35tVvuEUocukNYYi4Q
+              - heading "Agent实习开发工程师- 携程集团招聘" [level=3] [ref=f98e373]
+              - generic [ref=f98e379]:
+                - generic [ref=f98e380]: BOSS直聘
+                - generic [ref=f98e382]: https://www.zhipin.com › job_detail
+            - button "关于这条结果的详细信息" [ref=f98e388] [cursor=pointer]
+          - generic [ref=f98e395]:
+            - text: 你将会负责： 1. 参与
+            - emphasis [ref=f98e396]: Agent实习
+            - text: 应用工程开发，完成AI产品的上线； 2. 参与
+            - emphasis [ref=f98e397]: Agent
+            - text: 基础开发框架的建设，确保系统的稳定性和扩展性； 3. 参与
+            - emphasis [ref=f98e398]: Agent
+            - text: 记忆系统的设计和实现， ...
+        - generic [ref=f98e402]:
+          - generic [ref=f98e405]:
+            - link "大模型算法实习生（剪辑Agent方向）-剪映怎么样 BOSS直聘 https://www.zhipin.com › job_detail" [ref=f98e407] [cursor=pointer]:
+              - /url: /goto?url=CAESewHrOzAVOzsu3tgxIMINyZhsmY7WS7chwXX8aZYYObq3HFto7qxIZ6K6jQKlZxMUGa3-C9oV3OBAYTwjaUXKVkbB-8lguOaB4zDfwXSdnU6-xJoz5qSg-ADNvPzHLL4vt7e57Zr4nPT0XXMxe5FyfFTc-QCiXRKdM9J91A
+              - heading "大模型算法实习生（剪辑Agent方向）-剪映怎么样" [level=3] [ref=f98e408]
+              - generic [ref=f98e414]:
+                - generic [ref=f98e415]: BOSS直聘
+                - generic [ref=f98e417]: https://www.zhipin.com › job_detail
+            - button "关于这条结果的详细信息" [ref=f98e423] [cursor=pointer]
+          - generic [ref=f98e430]:
+            - text: ...
+            - emphasis [ref=f98e431]: 实习
+            - text: 生（剪辑
+            - emphasis [ref=f98e432]: Agent
+            - text: 方向）-剪映招聘. 大模型算法
+            - emphasis [ref=f98e433]: 实习
+            - text: 生（剪辑
+            - emphasis [ref=f98e434]: Agent
+            - text: 方向）-剪映. 深圳4天/周4个月本科. 发表算法相关优秀论文 视频生成
+            - emphasis [ref=f98e435]: Agent
+            - text: CV 大模型算法 多模态算法 ...
+        - generic [ref=f98e439]:
+          - generic [ref=f98e442]:
+            - link "小米GUI Agent 研究实习 BOSS直聘 https://www.zhipin.com › job_detail" [ref=f98e444] [cursor=pointer]:
+              - /url: /goto?url=CAESewHrOzAVoV7tH4mG3UNlqYj19ZncjPgfr_d_uJRg0tARcjKptUKpNGgyXeHsjAajqU_gI3moIY5ivVtabD1p29p6oTnCTyxXYPzwQZC3dd7aKaZK_0ky5rKYg3CkuCppqBzuV0hnW9EWTcbLRlSVONpsQnNt50imksqqUg
+              - heading "小米GUI Agent 研究实习" [level=3] [ref=f98e445]
+              - generic [ref=f98e451]:
+                - generic [ref=f98e452]: BOSS直聘
+                - generic [ref=f98e454]: https://www.zhipin.com › job_detail
+            - button "关于这条结果的详细信息" [ref=f98e460] [cursor=pointer]
+          - generic [ref=f98e467]:
+            - emphasis [ref=f98e468]: 实习
+            - text: 时长：三个月及以上） 【工作内容】 1. 负责研究GUI
+            - emphasis [ref=f98e469]: Agent
+            - text: 方向学术前沿问题，通过发表论文、开源、竞赛等，打造学术影响力； 2. 负责打造业界一流的GUI
+            - emphasis [ref=f98e470]: Agent
+            - text: ，并 ...
+        - generic [ref=f98e474]:
+          - generic [ref=f98e477]:
+            - link "基于大模型的Agent开发（实习生） BOSS直聘 https://www.zhipin.com › job_detail" [ref=f98e479] [cursor=pointer]:
+              - /url: /goto?url=CAESewHrOzAV_OHzNVk2NbThVle2nrbdlarOuOH4Mg5Qo2vI0rU0VuP7vPPblHO7am8ml5ooptNZLRxH58ZXXpddRRmw9nONbqV7B0rr5dgLlQhfCAxPOzkVtoDNn9lSl580m5-BuZOaUNaXftwGGPFno91IxvDboWZlBwnM2g
+              - heading "基于大模型的Agent开发（实习生）" [level=3] [ref=f98e480]
+              - generic [ref=f98e486]:
+                - generic [ref=f98e487]: BOSS直聘
+                - generic [ref=f98e489]: https://www.zhipin.com › job_detail
+            - button "关于这条结果的详细信息" [ref=f98e495] [cursor=pointer]
+          - generic [ref=f98e501]:
+            - generic [ref=f98e502]: 2026年7月28日 —
+            - generic [ref=f98e503]:
+              - text: ...
+              - emphasis [ref=f98e504]: Agent
+              - text: 开发（
+              - emphasis [ref=f98e505]: 实习
+              - text: 生）招聘. 基于大模型的
+              - emphasis [ref=f98e506]: Agent
+              - text: 开发（
+              - emphasis [ref=f98e507]: 实习
+              - text: 生）. 武汉4天/周3个月硕士.
+              - emphasis [ref=f98e508]: agent
+              - text: 机器学习 211或985学校 图像算法 langchain 深度学习 大模型 ...
+      - navigation [ref=f98e511]:
+        - heading "网页导航" [level=1] [ref=f98e512]
+        - text: "1"
+        - link "Page 2" [ref=f98e515] [cursor=pointer]:
+          - /url: /search?q=site:zhipin.com/job_detail+%22Agent%22+%22%E5%AE%9E%E4%B9%A0%22&sca_esv=764968ad403c3aa0&sxsrf=APpeQnuk93EwKhRgnKmKXSKJX8-jwyl1kg:1788958984209&ei=CFmharCuDMfEkPIPyJ-BqQE&start=10&sa=N&sstk=AS6-VmI06Hkgx_9uXkO9gWvfsuDLtjdAVc7Da6cjC4mfFVMZXCrSaIux94V2yaSdR9kgFINdY7Ny6pau39-nLneb2uU6uZBWaRQ83A&ved=2ahUKEwiw0pXGx-GWAxVHIkQIHchPIBUQ8tMDegQIJhAE
+          - text: "2"
+        - link "Page 3" [ref=f98e517] [cursor=pointer]:
+          - /url: /search?q=site:zhipin.com/job_detail+%22Agent%22+%22%E5%AE%9E%E4%B9%A0%22&sca_esv=764968ad403c3aa0&sxsrf=APpeQnuk93EwKhRgnKmKXSKJX8-jwyl1kg:1788958984209&ei=CFmharCuDMfEkPIPyJ-BqQE&start=20&sa=N&sstk=AS6-VmI06Hkgx_9uXkO9gWvfsuDLtjdAVc7Da6cjC4mfFVMZXCrSaIux94V2yaSdR9kgFINdY7Ny6pau39-nLneb2uU6uZBWaRQ83A&ved=2ahUKEwiw0pXGx-GWAxVHIkQIHchPIBUQ8tMDegQIJhAG
+          - text: "3"
+        - link "Page 4" [ref=f98e519] [cursor=pointer]:
+          - /url: /search?q=site:zhipin.com/job_detail+%22Agent%22+%22%E5%AE%9E%E4%B9%A0%22&sca_esv=764968ad403c3aa0&sxsrf=APpeQnuk93EwKhRgnKmKXSKJX8-jwyl1kg:1788958984209&ei=CFmharCuDMfEkPIPyJ-BqQE&start=30&sa=N&sstk=AS6-VmI06Hkgx_9uXkO9gWvfsuDLtjdAVc7Da6cjC4mfFVMZXCrSaIux94V2yaSdR9kgFINdY7Ny6pau39-nLneb2uU6uZBWaRQ83A&ved=2ahUKEwiw0pXGx-GWAxVHIkQIHchPIBUQ8tMDegQIJhAI
+          - text: "4"
+        - link "Page 5" [ref=f98e521] [cursor=pointer]:
+          - /url: /search?q=site:zhipin.com/job_detail+%22Agent%22+%22%E5%AE%9E%E4%B9%A0%22&sca_esv=764968ad403c3aa0&sxsrf=APpeQnuk93EwKhRgnKmKXSKJX8-jwyl1kg:1788958984209&ei=CFmharCuDMfEkPIPyJ-BqQE&start=40&sa=N&sstk=AS6-VmI06Hkgx_9uXkO9gWvfsuDLtjdAVc7Da6cjC4mfFVMZXCrSaIux94V2yaSdR9kgFINdY7Ny6pau39-nLneb2uU6uZBWaRQ83A&ved=2ahUKEwiw0pXGx-GWAxVHIkQIHchPIBUQ8tMDegQIJhAK
+          - text: "5"
+        - link "Page 6" [ref=f98e523] [cursor=pointer]:
+          - /url: /search?q=site:zhipin.com/job_detail+%22Agent%22+%22%E5%AE%9E%E4%B9%A0%22&sca_esv=764968ad403c3aa0&sxsrf=APpeQnuk93EwKhRgnKmKXSKJX8-jwyl1kg:1788958984209&ei=CFmharCuDMfEkPIPyJ-BqQE&start=50&sa=N&sstk=AS6-VmI06Hkgx_9uXkO9gWvfsuDLtjdAVc7Da6cjC4mfFVMZXCrSaIux94V2yaSdR9kgFINdY7Ny6pau39-nLneb2uU6uZBWaRQ83A&ved=2ahUKEwiw0pXGx-GWAxVHIkQIHchPIBUQ8tMDegQIJhAM
+          - text: "6"
+        - link "Page 7" [ref=f98e525] [cursor=pointer]:
+          - /url: /search?q=site:zhipin.com/job_detail+%22Agent%22+%22%E5%AE%9E%E4%B9%A0%22&sca_esv=764968ad403c3aa0&sxsrf=APpeQnuk93EwKhRgnKmKXSKJX8-jwyl1kg:1788958984209&ei=CFmharCuDMfEkPIPyJ-BqQE&start=60&sa=N&sstk=AS6-VmI06Hkgx_9uXkO9gWvfsuDLtjdAVc7Da6cjC4mfFVMZXCrSaIux94V2yaSdR9kgFINdY7Ny6pau39-nLneb2uU6uZBWaRQ83A&ved=2ahUKEwiw0pXGx-GWAxVHIkQIHchPIBUQ8tMDegQIJhAO
+          - text: "7"
+        - link "Page 8" [ref=f98e527] [cursor=pointer]:
+          - /url: /search?q=site:zhipin.com/job_detail+%22Agent%22+%22%E5%AE%9E%E4%B9%A0%22&sca_esv=764968ad403c3aa0&sxsrf=APpeQnuk93EwKhRgnKmKXSKJX8-jwyl1kg:1788958984209&ei=CFmharCuDMfEkPIPyJ-BqQE&start=70&sa=N&sstk=AS6-VmI06Hkgx_9uXkO9gWvfsuDLtjdAVc7Da6cjC4mfFVMZXCrSaIux94V2yaSdR9kgFINdY7Ny6pau39-nLneb2uU6uZBWaRQ83A&ved=2ahUKEwiw0pXGx-GWAxVHIkQIHchPIBUQ8tMDegQIJhAQ
+          - text: "8"
+        - link "Page 9" [ref=f98e529] [cursor=pointer]:
+          - /url: /search?q=site:zhipin.com/job_detail+%22Agent%22+%22%E5%AE%9E%E4%B9%A0%22&sca_esv=764968ad403c3aa0&sxsrf=APpeQnuk93EwKhRgnKmKXSKJX8-jwyl1kg:1788958984209&ei=CFmharCuDMfEkPIPyJ-BqQE&start=80&sa=N&sstk=AS6-VmI06Hkgx_9uXkO9gWvfsuDLtjdAVc7Da6cjC4mfFVMZXCrSaIux94V2yaSdR9kgFINdY7Ny6pau39-nLneb2uU6uZBWaRQ83A&ved=2ahUKEwiw0pXGx-GWAxVHIkQIHchPIBUQ8tMDegQIJhAS
+          - text: "9"
+        - link "Page 10" [ref=f98e531] [cursor=pointer]:
+          - /url: /search?q=site:zhipin.com/job_detail+%22Agent%22+%22%E5%AE%9E%E4%B9%A0%22&sca_esv=764968ad403c3aa0&sxsrf=APpeQnuk93EwKhRgnKmKXSKJX8-jwyl1kg:1788958984209&ei=CFmharCuDMfEkPIPyJ-BqQE&start=90&sa=N&sstk=AS6-VmI06Hkgx_9uXkO9gWvfsuDLtjdAVc7Da6cjC4mfFVMZXCrSaIux94V2yaSdR9kgFINdY7Ny6pau39-nLneb2uU6uZBWaRQ83A&ved=2ahUKEwiw0pXGx-GWAxVHIkQIHchPIBUQ8tMDegQIJhAU
+          - text: "10"
+        - heading [level=2] [ref=f98e533]:
+          - link "下一页" [ref=f98e534] [cursor=pointer]:
+            - /url: /search?q=site:zhipin.com/job_detail+%22Agent%22+%22%E5%AE%9E%E4%B9%A0%22&sca_esv=764968ad403c3aa0&sxsrf=APpeQnuk93EwKhRgnKmKXSKJX8-jwyl1kg:1788958984209&ei=CFmharCuDMfEkPIPyJ-BqQE&start=10&sa=N&sstk=AS6-VmI06Hkgx_9uXkO9gWvfsuDLtjdAVc7Da6cjC4mfFVMZXCrSaIux94V2yaSdR9kgFINdY7Ny6pau39-nLneb2uU6uZBWaRQ83A&ved=2ahUKEwiw0pXGx-GWAxVHIkQIHchPIBUQ8NMDegQIJhAW
+      - navigation
+    - contentinfo [ref=f98e537]:
+      - heading "页脚链接" [level=1] [ref=f98e538]
+      - generic [ref=f98e542]:
+        - generic [ref=f98e546]:
+          - button "美国 - 是根据您的 IP 地址推断出来的" [ref=f98e548] [cursor=pointer]:
+            - generic [ref=f98e549]: 美国
+            - generic [ref=f98e551]:
+              - text: "-"
+              - generic [ref=f98e552]: 是根据您的 IP 地址推断出来的
+          - text: "-"
+          - button "更新位置信息" [ref=f98e554] [cursor=pointer]
+        - generic [ref=f98e557]:
+          - link "帮助" [ref=f98e558] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=zh-CN&fg=1
+          - link "发送反馈" [ref=f98e559] [cursor=pointer]:
+            - /url: "#"
+          - link "隐私权" [ref=f98e560] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=zh-CN&fg=1
+          - link "条款" [ref=f98e561] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=zh-CN&fg=1

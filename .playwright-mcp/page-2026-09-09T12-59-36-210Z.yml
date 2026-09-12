@@ -1,0 +1,222 @@
+- generic [active] [ref=f6e1]:
+  - generic:
+    - generic:
+      - link "跳到主要内容" [ref=f6e2] [cursor=pointer]
+      - link "无障碍功能帮助" [ref=f6e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=zh-CN
+  - generic [ref=f6e8]:
+    - search [ref=f6e9]:
+      - generic [ref=f6e11]:
+        - link "Google 首页" [ref=f6e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=zh-CN&sa=X&ved=2ahUKEwjS473fxuGWAxUyDkQIHbyCGaAQPHoECAYQBA
+        - generic [ref=f6e21]:
+          - generic [ref=f6e22]:
+            - combobox "搜索" [ref=f6e25]: site:shixiseng.com agent 实习 Python site:shixiseng.com agent 实习 Python
+            - generic [ref=f6e26]:
+              - button "清除" [ref=f6e28] [cursor=pointer]
+              - generic [ref=f6e33]:
+                - button "按语音搜索" [ref=f6e34] [cursor=pointer]
+                - button "按图搜索" [ref=f6e37] [cursor=pointer]
+          - button "搜索" [ref=f6e40] [cursor=pointer]
+    - generic [ref=f6e45]:
+      - button "设置" [ref=f6e47] [cursor=pointer]
+      - button "分享" [ref=f6e48] [cursor=pointer]
+      - generic [ref=f6e54]:
+        - button "Google 应用" [ref=f6e56] [cursor=pointer]
+        - link "登录" [ref=f6e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=zh-CN&passive=true&continue=https://www.google.com/search%3Fq%3Dsite:shixiseng.com%2Bagent%2B%25E5%25AE%259E%25E4%25B9%25A0%2BPython%26sei%3DMFihavTVAsDDkPIPsdLawA4&ec=futura_srp_og_si_72236_p
+  - generic [ref=f6e64]:
+    - navigation [ref=f6e70]:
+      - list [ref=f6e73]:
+        - listitem [ref=f6e74]:
+          - link "AI 模式" [ref=f6e77] [cursor=pointer]:
+            - /url: /search?q=site:shixiseng.com+agent+%E5%AE%9E%E4%B9%A0+Python&sca_esv=764968ad403c3aa0&sxsrf=APpeQnvChLynLHUmjDUv_gYxyH6Vxmh9vw:1788958768875&udm=50&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgO5pJ2ROERAFrb15qpZFNMhsRSmp6-hFETunnF8nx8jMYl9riptNrlywDRW8HWMDp9HOkpqjsGPfKOD2rBsyTyTVyxmtjBRr5mNDJ7P3jS2LeQKpgfGQLBNFQFOIuqCvjpuOrDs5LFDCFnx28xmG5YxeNySGOfhFW78ryzEj8-vkzjCEXXTWarD86H5RkNvlzEqYiGiA&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjS473fxuGWAxUyDkQIHbyCGaAQ2J8OegQIERAD
+        - listitem [ref=f6e81]:
+          - link "全部" [disabled] [ref=f6e82]
+        - listitem [ref=f6e85]:
+          - link "视频" [ref=f6e86] [cursor=pointer]:
+            - /url: /search?sca_esv=764968ad403c3aa0&sxsrf=APpeQnvChLynLHUmjDUv_gYxyH6Vxmh9vw:1788958768875&udm=7&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgO5pJ2ROERAFrb15qpZFNMhsRSmp6-hFETunnF8nx8jMYl9riptNrlywDRW8HWMDp9HOkpqjsGPfKOD2rBsyTyTVyxmtjBRr5mNDJ7P3jS2LeQKpgfGQLBNFQFOIuqCvjpuOrDs5LFDCFnx28xmG5YxeNySGOfhFW78ryzEj8-vkzjCEXXTWarD86H5RkNvlzEqYiGiA&q=site:shixiseng.com+agent+%E5%AE%9E%E4%B9%A0+Python&sa=X&ved=2ahUKEwjS473fxuGWAxUyDkQIHbyCGaAQtKgLegQIFhAB
+        - listitem [ref=f6e89]:
+          - link "图片" [ref=f6e90] [cursor=pointer]:
+            - /url: /search?sca_esv=764968ad403c3aa0&sxsrf=APpeQnvChLynLHUmjDUv_gYxyH6Vxmh9vw:1788958768875&udm=2&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgO5pJ2ROERAFrb15qpZFNMhsRSmp6-hFETunnF8nx8jMYl9riptNrlywDRW8HWMDp9HOkpqjsGPfKOD2rBsyTyTVyxmtjBRr5mNDJ7P3jS2LeQKpgfGQLBNFQFOIuqCvjpuOrDs5LFDCFnx28xmG5YxeNySGOfhFW78ryzEj8-vkzjCEXXTWarD86H5RkNvlzEqYiGiA&q=site:shixiseng.com+agent+%E5%AE%9E%E4%B9%A0+Python&sa=X&ved=2ahUKEwjS473fxuGWAxUyDkQIHbyCGaAQtKgLegQIFxAB
+        - listitem [ref=f6e93]:
+          - link "购物" [ref=f6e94] [cursor=pointer]:
+            - /url: /search?sca_esv=764968ad403c3aa0&sxsrf=APpeQnvChLynLHUmjDUv_gYxyH6Vxmh9vw:1788958768875&udm=28&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgO5pJ2ROERAFrb15qpZFNMhsRSmp6-hFETunnF8nx8jMYl9riptNrlywDRW8HWMDp9HOkpqjsGPfKOD2rBsyTyTVyxmtjBRr5mNDJ7P3jS2LeQKpgfGQLBNFQFOIuqCvjpuOrDs5LFDCFnx28xmG5YxeNySGOfhFW78ryzEj8-vkzjCEXXTWarD86H5RkNvlzEqYiGiA&q=site:shixiseng.com+agent+%E5%AE%9E%E4%B9%A0+Python&ved=1t:220175&ictx=111
+        - listitem [ref=f6e97]:
+          - link "新闻" [ref=f6e98] [cursor=pointer]:
+            - /url: /search?sca_esv=764968ad403c3aa0&sxsrf=APpeQnvChLynLHUmjDUv_gYxyH6Vxmh9vw:1788958768875&q=site:shixiseng.com+agent+%E5%AE%9E%E4%B9%A0+Python&tbm=nws&source=lnms&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgO5pJ2ROERAFrb15qpZFNMhsRSmp6-hFETunnF8nx8jMYl9riptNrlywDRW8HWMDp9HOkpqjsGPfKOD2rBsyTyTVyxmtjBRr5mNDJ7P3jS2LeQKpgfGQLBNFQFOIuqCvjpuOrDs5LFDCFnx28xmG5YxeNySGOfhFW78ryzEj8-vkzjCEXXTWarD86H5RkNvlzEqYiGiA&sa=X&ved=2ahUKEwjS473fxuGWAxUyDkQIHbyCGaAQ0pQJegQIFRAB
+        - listitem [ref=f6e101]:
+          - link "短视频" [ref=f6e102] [cursor=pointer]:
+            - /url: /search?sca_esv=764968ad403c3aa0&sxsrf=APpeQnvChLynLHUmjDUv_gYxyH6Vxmh9vw:1788958768875&udm=39&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgO5pJ2ROERAFrb15qpZFNMhsRSmp6-hFETunnF8nx8jMYl9riptNrlywDRW8HWMDp9HOkpqjsGPfKOD2rBsyTyTVyxmtjBRr5mNDJ7P3jS2LeQKpgfGQLBNFQFOIuqCvjpuOrDs5LFDCFnx28xmG5YxeNySGOfhFW78ryzEj8-vkzjCEXXTWarD86H5RkNvlzEqYiGiA&q=site:shixiseng.com+agent+%E5%AE%9E%E4%B9%A0+Python&sa=X&ved=2ahUKEwjS473fxuGWAxUyDkQIHbyCGaAQs6gLegQIFBAB
+        - listitem [ref=f6e105]:
+          - button [ref=f6e106] [cursor=pointer]:
+            - generic "更多过滤条件" [ref=f6e107]: 更多
+    - heading "搜索结果" [level=1] [ref=f6e113]
+    - main [ref=f6e119]:
+      - generic [ref=f6e123]:
+        - generic [ref=f6e126]:
+          - heading "网页搜索结果" [level=2] [ref=f6e127]
+          - generic [ref=f6e128]:
+            - generic [ref=f6e131]:
+              - link "有见求职正在招聘AI agent实习生 实习僧 https://www.shixiseng.com › intern" [ref=f6e133] [cursor=pointer]:
+                - /url: /goto?url=CAESewHrOzAVhe9a6CH0tavz8PExFHzLNdlSsziV4hmwFXoU7LNGLGKk1FGHeuoPNxuRm0sVydRhV1ej7r_f_CGhEH-ZGbmTgT5k7zxnx9Ih4dHePrjQYBE5iZmb-0Qk6mKpXx5cTpnWbLd3jY2c88LG_pOeM1E-caoJJazR8g
+                - heading "有见求职正在招聘AI agent实习生" [level=3] [ref=f6e134]
+                - generic [ref=f6e140]:
+                  - generic [ref=f6e141]: 实习僧
+                  - generic [ref=f6e143]: https://www.shixiseng.com › intern
+              - button "关于这条结果的详细信息" [ref=f6e149] [cursor=pointer]
+            - generic [ref=f6e156]:
+              - text: AI
+              - emphasis [ref=f6e157]: agent实习
+              - text: 生. 有见求职. 教育/培训 500-2000人. 职位介绍. 职位亮点：可转正 ...
+              - emphasis [ref=f6e158]: Python
+              - text: 、Java、Go其中一种或多种编程语言，具备良好的软件框架和应用设计能力; 3 ...
+        - generic [ref=f6e162]:
+          - generic [ref=f6e165]:
+            - link "墨泊可士正在招聘AI Agent开发（可转正实习） 实习僧 https://www.shixiseng.com › intern" [ref=f6e167] [cursor=pointer]:
+              - /url: /goto?url=CAESaQHrOzAVxfEP-HgxHeed6hhk-OLj8zgQIZfjv1JyTtDQEsmGffr9V6SyBz0ascJbRlk5-5CZ2neR4IpsMlOrWfXfuSjr6fJ8T7seHcbXVGDRS87idia98cn0vz8bnwnctciNIBcfg6m_TA
+              - heading "墨泊可士正在招聘AI Agent开发（可转正实习）" [level=3] [ref=f6e168]
+              - generic [ref=f6e174]:
+                - generic [ref=f6e175]: 实习僧
+                - generic [ref=f6e177]: https://www.shixiseng.com › intern
+            - button "关于这条结果的详细信息" [ref=f6e183] [cursor=pointer]
+          - generic [ref=f6e190]:
+            - text: AI
+            - emphasis [ref=f6e191]: Agent
+            - text: 开发（可转正
+            - emphasis [ref=f6e192]: 实习
+            - text: ）. 墨泊可士. 互联网/游戏/软件 150-500人. 职位 ... 熟悉
+            - emphasis [ref=f6e193]: Python
+            - text: /Java/Go/php中的至少一种，具备扎实的代码能力和系统设计能力; 4.深入 ...
+        - generic [ref=f6e197]:
+          - generic [ref=f6e200]:
+            - link "小红书正在招聘AI Agent算法实习生（企业智能） 实习僧 https://www.shixiseng.com › intern" [ref=f6e202] [cursor=pointer]:
+              - /url: /goto?url=CAESaQHrOzAVWVCuOy7lASE2ouwsvjhfO5BEOmv9cqdQVjVbBhu1MqMlwsn4lwj6qP0sxVXod2dqr_dvDEYThOkkPWSvl5vF109C36oi1ChjitiJR4W3mfWxgjNZvA5fcL8BkGG9C9PuteY2sw
+              - heading "小红书正在招聘AI Agent算法实习生（企业智能）" [level=3] [ref=f6e203]
+              - generic [ref=f6e209]:
+                - generic [ref=f6e210]: 实习僧
+                - generic [ref=f6e212]: https://www.shixiseng.com › intern
+            - button "关于这条结果的详细信息" [ref=f6e218] [cursor=pointer]
+          - generic [ref=f6e225]:
+            - text: 本岗位面向AI
+            - emphasis [ref=f6e226]: Agent
+            - text: 算法方向，适合对大模型应用、
+            - emphasis [ref=f6e227]: Agent
+            - text: 、RAG、工具调用、模型评测、上下文工程等方向有强兴趣，并希望在真实业务场景中做算法落地的同学。 1、参与企业级 ...
+        - generic [ref=f6e231]:
+          - generic [ref=f6e234]:
+            - link "LEAPMIND 正在招聘Agent/后端开发 实习僧 https://www.shixiseng.com › intern" [ref=f6e236] [cursor=pointer]:
+              - /url: /goto?url=CAESaQHrOzAVK_3qpZawn4nE-LhaZ6ish_AXOmSZ9KLkpTJTzCEocbx-DpoOPSWUmK48qXzhwqGQRkN-eFVdocnMLXJz_cJiZdwxH6Y_5Seni-jNSr6TZDmOsfPl8WUsRR6pZt0VksHhnkhRUg
+              - heading "LEAPMIND 正在招聘Agent/后端开发" [level=3] [ref=f6e237]
+              - generic [ref=f6e243]:
+                - generic [ref=f6e244]: 实习僧
+                - generic [ref=f6e246]: https://www.shixiseng.com › intern
+            - button "关于这条结果的详细信息" [ref=f6e252] [cursor=pointer]
+          - generic [ref=f6e259]:
+            - text: 【该
+            - emphasis [ref=f6e260]: 实习
+            - text: 岗位有转正机会，2027届毕业生优先，本科/硕士/博士均可】 **职位描述** 1、参与AI广告平台搭建，包括广告投放和创意智能生成等功能； 2、参与接入广告媒体 ...
+        - generic [ref=f6e264]:
+          - generic [ref=f6e267]:
+            - link "滴滴正在招聘地图事业部-算法实习生（3） 实习僧 https://www.shixiseng.com › intern" [ref=f6e269] [cursor=pointer]:
+              - /url: /goto?url=CAESaQHrOzAVQb-0g0SRmSv9MjOP1loG9ZqLSgWBxyt31gmr4FxLyQhckvO0Rx0JOSgpBo8H0JdVzb8Dyr2Sc77LwcbAMmEzc0utb1tQBcQuPq9JpqnSsZikF8U1EJntk0nnPpYyY08TWYBWjA
+              - heading "滴滴正在招聘地图事业部-算法实习生（3）" [level=3] [ref=f6e270]
+              - generic [ref=f6e276]:
+                - generic [ref=f6e277]: 实习僧
+                - generic [ref=f6e279]: https://www.shixiseng.com › intern
+            - button "关于这条结果的详细信息" [ref=f6e285] [cursor=pointer]
+          - generic [ref=f6e292]:
+            - text: 与工程、产品团队协作，推动
+            - emphasis [ref=f6e293]: Agent
+            - text: 能力在真实业务链路中落地。 任职资格： 1. 计算机、人工智能、数据科学、GIS、数学、统计学等相关专业，本科及以上学历； 2. 熟悉
+            - emphasis [ref=f6e294]: Python
+            - text: ...
+        - generic [ref=f6e298]:
+          - generic [ref=f6e301]:
+            - link "随训通正在招聘强化学习实习生 实习僧 https://www.shixiseng.com › intern" [ref=f6e303] [cursor=pointer]:
+              - /url: /goto?url=CAESaQHrOzAVd4MfqqRznDRd1Yh8zS7K_blYumK9oZJHE3PN5_7G6mZ6jGesP_ADu-fCa2V2cUwDZoSteHYKeTgEf1ZYMEnIrud6LCa4VL7vmAQ-RwvXfEkrPEejs6LFBiweX5agEkDsAJz23g
+              - heading "随训通正在招聘强化学习实习生" [level=3] [ref=f6e304]
+              - generic [ref=f6e310]:
+                - generic [ref=f6e311]: 实习僧
+                - generic [ref=f6e313]: https://www.shixiseng.com › intern
+            - button "关于这条结果的详细信息" [ref=f6e319] [cursor=pointer]
+          - generic [ref=f6e326]:
+            - text: 职位亮点：可转正
+            - emphasis [ref=f6e327]: 实习
+            - text: ",暑期"
+            - emphasis [ref=f6e328]: 实习
+            - text: ",寒假"
+            - emphasis [ref=f6e329]: 实习
+            - text: ",留学生"
+            - emphasis [ref=f6e330]: 实习
+            - text: ",下午茶,节日福利,不打卡 ..."
+            - emphasis [ref=f6e331]: Python
+            - text: / C++等语言进行编程，实现机器学习算法。 投递要求. 简历要求：不限. 截止 ...
+        - generic [ref=f6e335]:
+          - generic [ref=f6e338]:
+            - link "智能问问正在招聘AI大模型产品实习生 实习僧 https://wap.shixiseng.com › intern" [ref=f6e340] [cursor=pointer]:
+              - /url: /goto?url=CAESegHrOzAV1cpO_Axrd59HgCX0haumnJUGSE7nyeIw3bsdmq8ApnOJxporjLVCYisHaXsalF83xjiEOYtIp2AbmlxaYd3lI80OVQTQR1D2zXflr65sq0HAd6Y7gjWqNtiOMmGCublHqCRRMX8cMFbsOtk1Y-7oCQ6Vqppy
+              - heading "智能问问正在招聘AI大模型产品实习生" [level=3] [ref=f6e341]
+              - generic [ref=f6e347]:
+                - generic [ref=f6e348]: 实习僧
+                - generic [ref=f6e350]: https://wap.shixiseng.com › intern
+            - button "关于这条结果的详细信息" [ref=f6e356] [cursor=pointer]
+          - generic [ref=f6e363]:
+            - text: ...
+            - emphasis [ref=f6e364]: Agent
+            - text: 策略、数据微调策略等等，对AI大模型的产品设计和落地拥有深刻的洞察、领先 ... 有基础编程能力，熟悉
+            - emphasis [ref=f6e365]: python
+            - text: 、SQL、Excel公式、VBA宏编程等优先4. 热爱新 ...
+        - generic [ref=f6e369]:
+          - generic [ref=f6e372]:
+            - link "IPG Automotive 正在招聘人工智能应用开发实习生 实习僧 https://www.shixiseng.com › intern" [ref=f6e374] [cursor=pointer]:
+              - /url: /goto?url=CAESegHrOzAV_KZPMrKtRC_ekekvmMfj844k03nwGt3ym2aUqpeLvCHe3t0g_IodBaw_cDidr1ly3sSPTh0-Bo-EBXOf-DLmT-Hh3bsN7CPNerlSmARzjwfOnlclRuLAvaLxjjRjeC2BsckN9JkOILKLxEcd_upw3xblBf-r
+              - heading "IPG Automotive 正在招聘人工智能应用开发实习生" [level=3] [ref=f6e375]
+              - generic [ref=f6e381]:
+                - generic [ref=f6e382]: 实习僧
+                - generic [ref=f6e384]: https://www.shixiseng.com › intern
+            - button "关于这条结果的详细信息" [ref=f6e390] [cursor=pointer]
+          - generic [ref=f6e397]:
+            - text: 参与AI
+            - emphasis [ref=f6e398]: Agent
+            - text: 应用开发； 2. 面向业务场景的AI赋能； Qualifications 1. 计算机、通信、车辆工程、电子电气工程、相关专业本科/硕士在读； 2. 熟练掌握
+            - emphasis [ref=f6e399]: Python
+            - text: ，C/C++； 3.
+        - generic [ref=f6e403]:
+          - generic [ref=f6e406]:
+            - link "NIO蔚来正在招聘agent系统开发工程师 实习僧 https://www.shixiseng.com › intern" [ref=f6e408] [cursor=pointer]:
+              - /url: /goto?url=CAESegHrOzAV_nQIolb0iXXjCSTa47927Ra7EyThZS8fJ1YtDnmBu4aBnGquM0uyOBQg1xqNLeQoW-BaPRHNuUA1T4ePlmxe2RqZwck13OjO7NIP77eyfLoFa-IiEgx1Py-PSfwKoW9_1VuTuJbG5gYjNgN9fqwZToyBWxcC
+              - heading "NIO蔚来正在招聘agent系统开发工程师" [level=3] [ref=f6e409]
+              - generic [ref=f6e415]:
+                - generic [ref=f6e416]: 实习僧
+                - generic [ref=f6e418]: https://www.shixiseng.com › intern
+            - button "关于这条结果的详细信息" [ref=f6e424] [cursor=pointer]
+          - generic [ref=f6e431]:
+            - text: 任职要求1. 计算机科学、人工智能、软件工程等相关专业，本科或研究生在读，具备扎实的计算机基础知识。 2.
+            - emphasis [ref=f6e432]: 熟练掌握Python 或Java 任一后端开发语言
+            - text: ，并熟悉相应技术栈（ ...
+        - generic [ref=f6e436]:
+          - generic [ref=f6e439]:
+            - link "美团正在招聘大模型应用算法实习生 实习僧 https://www.shixiseng.com › intern" [ref=f6e441] [cursor=pointer]:
+              - /url: /goto?url=CAESaQHrOzAVWk4TzBi-DLEcU2HP1sTGTa0zyaVgt01GgYpGo4JvEYvtjiS3OfC069xOrr-Hsf_QICerZ_6rWZEiIGGrcRNa2ykpLoqep9bYQLM0A4I7ZPGOuCkLDZXHyFYPVpvyuV-pLvwNRw
+              - heading "美团正在招聘大模型应用算法实习生" [level=3] [ref=f6e442]
+              - generic [ref=f6e448]:
+                - generic [ref=f6e449]: 实习僧
+                - generic [ref=f6e451]: https://www.shixiseng.com › intern
+            - button "关于这条结果的详细信息" [ref=f6e457] [cursor=pointer]
+          - generic [ref=f6e462]: 岗位基本要求： 1. 硕士及以上学历，计算机科学、人工智能、自然语言处理或相关专业。 2. 熟悉深度学习和自然语言处理的基本原理和常用方法。 3. 熟练掌握至少一种深度学习 ...
+      - navigation [ref=f6e466]:
+        - heading "网页导航" [level=1] [ref=f6e467]
+        - text: "1"
+        - link "Page 2" [ref=f6e470] [cursor=pointer]:
+          - /url: /search?q=site:shixiseng.com+agent+%E5%AE%9E%E4%B9%A0+Python&sca_esv=764968ad403c3aa0&sxsrf=APpeQnvChLynLHUmjDUv_gYxyH6Vxmh9vw:1788958768875&ei=MFihatKLNLKckPIPvIXmgAo&start=10&sa=N&sstk=AS6-VmJBUkyYBsAnw8xIt8b3F0vIa5OepUy-AHxKUwdxPHGdF9Paairryu1t8-z17zeAKNcmUtBFCQlLs313ZACY6C_b5XqcgrLAbg&ved=2ahUKEwjS473fxuGWAxUyDkQIHbyCGaAQ8tMDegQIMhAE
+          - text: "2"
+        - link "Page 3" [ref=f6e472] [cursor=pointer]:
+          - /url: /search?q=site:shixiseng.com+agent+%E5%AE%9E%E4%B9%A0+Python&sca_esv=764968ad403c3aa0&sxsrf=APpeQnvChLynLHUmjDUv_gYxyH6Vxmh9vw:1788958768875&ei=MFihatKLNLKckPIPvIXmgAo&start=20&sa=N&sstk=AS6-VmJBUkyYBsAnw8xIt8b3F0vIa5OepUy-AHxKUwdxPHGdF9Paairryu1t8-z17zeAKNcmUtBFCQlLs313ZACY6C_b5XqcgrLAbg&ved=2ahUKEwjS473fxuGWAxUyDkQIHbyCGaAQ8tMDegQIMhAG
+          - text: "3"
+        - heading [level=2] [ref=f6e474]:
+          - link "下一页" [ref=f6e475] [cursor=pointer]:
+            - /url: /search?q=site:shixiseng.com+agent+%E5%AE%9E%E4%B9%A0+Python&sca_esv=764968ad403c3aa0&sxsrf=APpeQnvChLynLHUmjDUv_gYxyH6Vxmh9vw:1788958768875&ei=MFihatKLNLKckPIPvIXmgAo&start=10&sa=N&sstk=AS6-VmJBUkyYBsAnw8xIt8b3F0vIa5OepUy-AHxKUwdxPHGdF9Paairryu1t8-z17zeAKNcmUtBFCQlLs313ZACY6C_b5XqcgrLAbg&ved=2ahUKEwjS473fxuGWAxUyDkQIHbyCGaAQ8NMDegQIMhAI
+      - navigation
+    - contentinfo [ref=f6e478]:
+      - heading "页脚链接" [level=1] [ref=f6e479]

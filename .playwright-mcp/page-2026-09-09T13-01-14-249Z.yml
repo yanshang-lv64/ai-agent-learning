@@ -1,0 +1,173 @@
+- generic [active] [ref=f14e1]:
+  - generic [ref=f14e4]:
+    - generic [ref=f14e5]:
+      - generic [ref=f14e6]:
+        - link [ref=f14e7] [cursor=pointer]:
+          - /url: https://www.shixiseng.com
+        - list [ref=f14e8]:
+          - listitem [ref=f14e9]:
+            - link "首页" [ref=f14e10] [cursor=pointer]:
+              - /url: https://www.shixiseng.com
+          - listitem [ref=f14e11]:
+            - link "校招" [ref=f14e12] [cursor=pointer]:
+              - /url: https://resume.shixiseng.com/xiaozhao
+          - listitem [ref=f14e13]:
+            - link "实习僧TV" [ref=f14e14] [cursor=pointer]:
+              - /url: https://live.shixiseng.com
+          - listitem [ref=f14e16]:
+            - link "实习僧教育" [ref=f14e17] [cursor=pointer]:
+              - /url: https://edu.shixiseng.com/pc/px1
+          - listitem [ref=f14e18]:
+            - link "职位百科" [ref=f14e19] [cursor=pointer]:
+              - /url: https://baike.shixiseng.com/zwbk
+        - generic [ref=f14e21]:
+          - link "企业入口" [ref=f14e22] [cursor=pointer]:
+            - /url: https://hr.shixiseng.com
+          - generic [ref=f14e23]: 登录/注册
+      - text: 
+    - generic [ref=f14e25]:
+      - generic [ref=f14e26]:
+        - generic [ref=f14e27]:
+          - generic [ref=f14e28]: agent系统开发工程师
+          - generic [ref=f14e29]: 2026-04-16 14:04:07 刷新
+          - generic [ref=f14e30]: 300/天 上海 本科 4天／周 实习4个月
+          - generic [ref=f14e31]: 周末双休
+          - generic [ref=f14e33]:
+            - generic [ref=f14e34] [cursor=pointer]
+            - generic "分享到微信" [ref=f14e36] [cursor=pointer]
+          - generic [ref=f14e38]:
+            - generic [ref=f14e40] [cursor=pointer]
+            - generic [ref=f14e42] [cursor=pointer]: 扫码手机查看
+            - generic [ref=f14e43] [cursor=pointer]: 当前职位已下线
+        - generic [ref=f14e44]:
+          - generic [ref=f14e45]:
+            - generic [ref=f14e46]:
+              - generic [ref=f14e47]: 职位描述：
+              - generic [ref=f14e48]: 岗位职责 1. 大模型与智能 Agent 开发 - 参与构建基于 LangGraph / MCP / LlamaIndex 的智能 Agent 应用，负责工作流编排、工具集成及任务执行链路设计。 - 参与实现文档解析、检索增强（RAG）、向量检索、Prompt 设计等大模型应用能力。 - 协助进行模型效果评估、调用链路调优、场景适配与业务落地实施。 2. 后端服务与系统开发 - 使用 FastAPI 或 Spring Boot 构建大模型应用相关 API 服务，支持异步任务处理和工具调用。 - 参与数据库设计与实现，使用 MySQL、Redis、MongoDB 等完成数据存储与查询优化。 - 协助实现系统监控、日志记录、接口测试及服务性能优化。 3. 工程化与交付支持 - 参与服务容器化、环境部署与基本 CI/CD 流程，使用 Docker、GitHub Actions 或 GitLab CI。 - 编写相关技术文档、接口文档，协助开展代码 Review，提升系统稳定性和工程质量。 任职要求 1. 计算机科学、人工智能、软件工程等相关专业，本科或研究生在读，具备扎实的计算机基础知识。 2. 熟练掌握 Python 或 Java 任一后端开发语言，并熟悉相应技术栈（FastAPI / Spring Boot）。 3. 熟练使用AI开发工具进行敏捷开发，了解一种前端框架（Vue3 或 React），具备基本的 Web 开发与调试能力。 4. 理解大语言模型及其相关概念，包括 Prompt 设计、Embedding、RAG、微调等。 5. 熟悉 MySQL、Redis、MongoDB 等常用数据库，了解基本的索引优化或缓存机制。 6. 熟悉 Git 版本控制，具备良好的工程化意识与代码规范。 7. 每周实习不少于 4 天，实习时间不少于 4 个月，具备良好的沟通能力、责任心与自驱力。 加分项 1. 有 LangGraph、LlamaIndex、Autogen、OpenAI MCP 等大模型应用或 Agent 项目经验。 2. 具备检索增强系统（RAG）的实践经验，包括文档预处理、向量检索、召回优化等。 3. 熟悉前后端全栈开发流程，有从零构建完整 Web 应用的经验。 4. 了解 Docker、Kubernetes、Kafka 或 DevOps 等云原生技术。 5. 有模型评估、链路分析、可观测性工具等相关经验。 6. 在开源社区有贡献者经历或拥有个人技术项目者优先。
+            - generic [ref=f14e50]:
+              - generic [ref=f14e51]: 投递要求：
+              - generic [ref=f14e52]: 简历要求： 中文
+              - generic [ref=f14e53]: 截止日期：2027-01-17
+            - generic [ref=f14e54]:
+              - generic [ref=f14e55]: 工作地点：
+              - text: 上海市/上海市/嘉定区 汽车·创新港
+            - generic [ref=f14e56]: 求职中若出现虚假宣传，收取财物等违法情况。请立即举报
+            - paragraph [ref=f14e58] [cursor=pointer]: 当前职位已下线
+          - generic [ref=f14e59]:
+            - generic [ref=f14e60]:
+              - generic [ref=f14e61]: 公司简介
+              - generic [ref=f14e62]:
+                - generic [ref=f14e63]:
+                  - link:
+                    - /url: javascript:;
+                    - img [ref=f14e64] [cursor=pointer]
+                  - link "NIO蔚来" [ref=f14e65] [cursor=pointer]:
+                    - /url: javascript:;
+                  - generic [ref=f14e67]: “全球化的智能电动汽车公司，致力于通过提供高性能的智能电动汽车与极致用户体验，共创可持续和更美好的未来”
+                - generic [ref=f14e68]:
+                  - generic [ref=f14e69]: 团队体验
+                  - generic [ref=f14e70]: 有憧憬
+                  - generic [ref=f14e71]: 有发展
+                  - generic [ref=f14e72]: 用户企业
+                  - generic [ref=f14e73]: 成长快速
+                  - generic [ref=f14e74]: 工作氛围优良
+                - generic [ref=f14e75]:
+                  - generic [ref=f14e76]:
+                    - generic [ref=f14e77]: 
+                    - text: 汽车/机械/制造
+                  - generic [ref=f14e78]:
+                    - generic [ref=f14e79]: 
+                    - text: 民营企业
+                  - generic [ref=f14e80]:
+                    - generic [ref=f14e81]: 
+                    - text: 2000人以上
+                  - generic [ref=f14e82]:
+                    - generic [ref=f14e83]: 
+                    - text: 上海市
+            - generic [ref=f14e84] [cursor=pointer]:
+              - generic [ref=f14e85]:
+                - heading "职位百科" [level=3] [ref=f14e86]
+                - paragraph [ref=f14e87]: 为你揭秘各职业的工作内容｜薪资水平…
+              - generic [ref=f14e90]:
+                - generic [ref=f14e91]:
+                  - heading "人工智能训练师" [level=4] [ref=f14e92]
+                  - generic [ref=f14e93]: 百科详情
+                - paragraph [ref=f14e95]: 使用智能训练软件，在人工智能产品实际使用过程中进行数据库管理、算法参数设置、人机交互设计、性能测试跟踪及其他辅助作业的人员。
+      - generic: 
+      - text: 
+    - generic [ref=f14e98]:
+      - generic [ref=f14e99]:
+        - generic [ref=f14e100]:
+          - generic [ref=f14e101]: 产品服务
+          - link "找实习" [ref=f14e103] [cursor=pointer]:
+            - /url: https://www.shixiseng.com
+          - link "找校招" [ref=f14e105] [cursor=pointer]:
+            - /url: https://resume.shixiseng.com/xiaozhao
+          - link "看空宣" [ref=f14e107] [cursor=pointer]:
+            - /url: https://live.shixiseng.com
+        - generic [ref=f14e108]:
+          - generic [ref=f14e109]: 旗下产品
+          - link "实习僧" [ref=f14e111] [cursor=pointer]:
+            - /url: https://www.shixiseng.com
+          - link "实习僧TV" [ref=f14e113] [cursor=pointer]:
+            - /url: https://live.shixiseng.com
+          - link "实习僧题库" [ref=f14e115] [cursor=pointer]:
+            - /url: https://exam.shixiseng.com
+          - link "职场说" [ref=f14e117] [cursor=pointer]:
+            - /url: https://ac.shixiseng.com/newvolcano/act_86m7popchfun
+        - generic [ref=f14e118]:
+          - generic [ref=f14e119]: 关于我们
+          - link "了解我们" [ref=f14e121] [cursor=pointer]:
+            - /url: //www.shixiseng.com/about
+          - link "加入我们" [ref=f14e123] [cursor=pointer]:
+            - /url: https://mshare.jobs.feishu.cn/index
+          - link "免责声明" [ref=f14e125] [cursor=pointer]:
+            - /url: https://www.shixiseng.com/rule
+          - link "专项治理" [ref=f14e127] [cursor=pointer]:
+            - /url: https://pages.shixiseng.com/html/zxzl
+        - generic [ref=f14e128]:
+          - generic [ref=f14e129]: 联系我们
+          - generic [ref=f14e130]: 实习僧公众号
+          - generic [ref=f14e132]: 客户服务
+          - link "商务合作" [ref=f14e137] [cursor=pointer]:
+            - /url: javascript:;
+      - generic [ref=f14e138]:
+        - generic [ref=f14e139]:
+          - text: ©2015-2026 实习僧|
+          - link "蜀ICP备13010980号" [ref=f14e141] [cursor=pointer]:
+            - /url: //beian.miit.gov.cn
+          - text: "|"
+          - generic [ref=f14e142]:
+            - text: 联系我们：
+            - link "sxs@shixiseng.com" [ref=f14e143] [cursor=pointer]:
+              - /url: Mailto:sxs@shixiseng.com
+        - generic [ref=f14e144]: 成都萌想科技有限责任公司版权所有 中国专注实习、校招垂直招聘平台
+        - link "川公网安备 51019002001179号" [ref=f14e145] [cursor=pointer]:
+          - /url: //www.beian.gov.cn/portal/registerSystemInfo?recordcode=51019002001179
+        - link "经营资质" [ref=f14e147] [cursor=pointer]:
+          - /url: https://resume.shixiseng.com/credentials
+  - generic [ref=f14e157]:
+    - link "短信登录" [ref=f14e158] [cursor=pointer]:
+      - /url: "#"
+    - link "密码登录" [ref=f14e159] [cursor=pointer]:
+      - /url: "#"
+    - generic "使用新浪微博账号登录" [ref=f14e160] [cursor=pointer]: 微博登录
+    - generic "使用腾讯QQ账号登录" [ref=f14e161] [cursor=pointer]: QQ登录
+  - text:  
+  - generic [ref=f14e162]:
+    - generic [ref=f14e163] [cursor=pointer]
+    - generic [ref=f14e165] [cursor=pointer]
+    - generic [ref=f14e167] [cursor=pointer]
+    - generic [ref=f14e169] [cursor=pointer]
+  - iframe [ref=f14e172]:
+    - generic [ref=f15e2]:
+      - generic [ref=f15e4]:
+        - generic [ref=f15e5]: 安全验证
+        - generic: 返回
+      - generic:
+        - option
+      - generic [ref=f15e14]:
+        - generic [ref=f15e15]: 拖动下方滑块完成拼图
+        - generic [ref=f15e22]:
+          - img "feedback" [ref=f15e25] [cursor=pointer]
+          - img "refresh" [ref=f15e28] [cursor=pointer]

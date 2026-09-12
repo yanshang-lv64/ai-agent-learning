@@ -1,0 +1,178 @@
+- generic [active] [ref=f12e1]:
+  - generic [ref=f12e4]:
+    - generic [ref=f12e5]:
+      - generic [ref=f12e6]:
+        - link [ref=f12e7] [cursor=pointer]:
+          - /url: https://www.shixiseng.com
+        - list [ref=f12e8]:
+          - listitem [ref=f12e9]:
+            - link "首页" [ref=f12e10] [cursor=pointer]:
+              - /url: https://www.shixiseng.com
+          - listitem [ref=f12e11]:
+            - link "校招" [ref=f12e12] [cursor=pointer]:
+              - /url: https://resume.shixiseng.com/xiaozhao
+          - listitem [ref=f12e13]:
+            - link "实习僧TV" [ref=f12e14] [cursor=pointer]:
+              - /url: https://live.shixiseng.com
+          - listitem [ref=f12e16]:
+            - link "实习僧教育" [ref=f12e17] [cursor=pointer]:
+              - /url: https://edu.shixiseng.com/pc/px1
+          - listitem [ref=f12e18]:
+            - link "职位百科" [ref=f12e19] [cursor=pointer]:
+              - /url: https://baike.shixiseng.com/zwbk
+        - generic [ref=f12e21]:
+          - link "企业入口" [ref=f12e22] [cursor=pointer]:
+            - /url: https://hr.shixiseng.com
+          - generic [ref=f12e23]: 登录/注册
+      - text: 
+    - generic [ref=f12e25]:
+      - generic [ref=f12e26]:
+        - generic [ref=f12e27]:
+          - generic [ref=f12e28]: Agent/后端开发
+          - generic [ref=f12e29]: 2026-04-21 00:00:00 刷新
+          - generic [ref=f12e30]: 300-500/天 上海 本科 3天／周 实习3个月 提供转正机会
+          - generic [ref=f12e31]:
+            - generic [ref=f12e32]: 可转正实习
+            - generic [ref=f12e33]: 地铁周边
+            - generic [ref=f12e34]: 周末双休
+            - generic [ref=f12e35]: 一对一导师
+            - generic [ref=f12e36]: 餐补
+          - generic [ref=f12e37]:
+            - generic [ref=f12e38] [cursor=pointer]
+            - generic "分享到微信" [ref=f12e40] [cursor=pointer]
+          - generic [ref=f12e42]:
+            - generic [ref=f12e44] [cursor=pointer]
+            - generic [ref=f12e46] [cursor=pointer]: 扫码手机查看
+            - generic [ref=f12e47] [cursor=pointer]: 当前职位已下线
+        - generic [ref=f12e48]:
+          - generic [ref=f12e49]:
+            - generic [ref=f12e50]:
+              - generic [ref=f12e51]: 职位描述：
+              - generic [ref=f12e52]: 【该实习岗位有转正机会，2027届毕业生优先，本科/硕士/博士均可】 **职位描述** 1、参与AI广告平台搭建，包括广告投放和创意智能生成等功能； 2、参与接入广告媒体平台API，将广告投放场景进行系统化抽象，构建可扩展的底层架构； 3、持续优化广告投放和业务增长策略，提升系统的自动化和智能化水平，打造高效的投放引擎； 4、了解技术前沿，运用AI技术持续优化系统架构。 **职位要求** 1、具备初步的系统架构设计能力，能进行系统抽象。有系统架构的实施和演进经验为佳； 2、扎实的编程基础，熟练掌握数据结构和算法，熟悉Python、GoLang、C++ 或 Rust 等至少一门编程语言； 3、熟悉并了解后端主流中间件的原理，如 PostgreSQL、Clickhouse、ELK 等； 4、额外加分项：有搜广推系统开发或用户增长平台研发经验者
+            - generic [ref=f12e54]:
+              - generic [ref=f12e55]: 投递要求：
+              - generic [ref=f12e56]: 简历要求： 中文
+              - generic [ref=f12e57]: 截止日期：2026-04-20
+            - generic [ref=f12e58]:
+              - generic [ref=f12e59]: 工作地点：
+              - text: 上海市/上海市/黄浦区 趣办·瑞泰轩
+            - generic [ref=f12e60]: 求职中若出现虚假宣传，收取财物等违法情况。请立即举报
+            - paragraph [ref=f12e62] [cursor=pointer]: 当前职位已下线
+          - generic [ref=f12e63]:
+            - generic [ref=f12e64]:
+              - generic [ref=f12e65]: 公司简介
+              - generic [ref=f12e66]:
+                - generic [ref=f12e67]:
+                  - link:
+                    - /url: javascript:;
+                    - img [ref=f12e68] [cursor=pointer]
+                  - link "LEAPMIND" [ref=f12e69] [cursor=pointer]:
+                    - /url: javascript:;
+                  - generic [ref=f12e70]: “聪明勤奋的大厂同学们联合创业，将多年增长经验转化为可重复营销AI产品，帮助企业拿到更确定性的营销结果”
+                - generic [ref=f12e71]:
+                  - generic [ref=f12e72]: 同事可爱
+                  - generic [ref=f12e73]: 文化开放
+                  - generic [ref=f12e74]: 优质团队
+                  - generic [ref=f12e75]: 环境超赞
+                  - generic [ref=f12e76]: nice氛围
+                  - generic [ref=f12e77]: 活力创新
+                - generic [ref=f12e78]:
+                  - generic [ref=f12e79]:
+                    - generic [ref=f12e80]: 
+                    - text: 互联网/游戏/软件
+                  - generic [ref=f12e81]:
+                    - generic [ref=f12e82]: 
+                    - text: 民营企业
+                  - generic [ref=f12e83]:
+                    - generic [ref=f12e84]: 
+                    - text: 15-50人
+                  - generic [ref=f12e85]:
+                    - generic [ref=f12e86]: 
+                    - text: 上海市
+            - generic [ref=f12e87] [cursor=pointer]:
+              - generic [ref=f12e88]:
+                - heading "职位百科" [level=3] [ref=f12e89]
+                - paragraph [ref=f12e90]: 为你揭秘各职业的工作内容｜薪资水平…
+              - generic [ref=f12e93]:
+                - generic [ref=f12e94]:
+                  - heading "后端开发工程师" [level=4] [ref=f12e95]
+                  - generic [ref=f12e96]: 百科详情
+                - paragraph [ref=f12e98]: 负责计算机产品的服务器端研发，通过代码、API 和数据库集成构建服务端架构，提高网站、应用程序或软件的运行效率，为前端提供支持的专业技术人员。
+      - generic: 
+      - text: 
+    - generic [ref=f12e101]:
+      - generic [ref=f12e102]:
+        - generic [ref=f12e103]:
+          - generic [ref=f12e104]: 产品服务
+          - link "找实习" [ref=f12e106] [cursor=pointer]:
+            - /url: https://www.shixiseng.com
+          - link "找校招" [ref=f12e108] [cursor=pointer]:
+            - /url: https://resume.shixiseng.com/xiaozhao
+          - link "看空宣" [ref=f12e110] [cursor=pointer]:
+            - /url: https://live.shixiseng.com
+        - generic [ref=f12e111]:
+          - generic [ref=f12e112]: 旗下产品
+          - link "实习僧" [ref=f12e114] [cursor=pointer]:
+            - /url: https://www.shixiseng.com
+          - link "实习僧TV" [ref=f12e116] [cursor=pointer]:
+            - /url: https://live.shixiseng.com
+          - link "实习僧题库" [ref=f12e118] [cursor=pointer]:
+            - /url: https://exam.shixiseng.com
+          - link "职场说" [ref=f12e120] [cursor=pointer]:
+            - /url: https://ac.shixiseng.com/newvolcano/act_86m7popchfun
+        - generic [ref=f12e121]:
+          - generic [ref=f12e122]: 关于我们
+          - link "了解我们" [ref=f12e124] [cursor=pointer]:
+            - /url: //www.shixiseng.com/about
+          - link "加入我们" [ref=f12e126] [cursor=pointer]:
+            - /url: https://mshare.jobs.feishu.cn/index
+          - link "免责声明" [ref=f12e128] [cursor=pointer]:
+            - /url: https://www.shixiseng.com/rule
+          - link "专项治理" [ref=f12e130] [cursor=pointer]:
+            - /url: https://pages.shixiseng.com/html/zxzl
+        - generic [ref=f12e131]:
+          - generic [ref=f12e132]: 联系我们
+          - generic [ref=f12e133]: 实习僧公众号
+          - generic [ref=f12e135]: 客户服务
+          - link "商务合作" [ref=f12e140] [cursor=pointer]:
+            - /url: javascript:;
+      - generic [ref=f12e141]:
+        - generic [ref=f12e142]:
+          - text: ©2015-2026 实习僧|
+          - link "蜀ICP备13010980号" [ref=f12e144] [cursor=pointer]:
+            - /url: //beian.miit.gov.cn
+          - text: "|"
+          - generic [ref=f12e145]:
+            - text: 联系我们：
+            - link "sxs@shixiseng.com" [ref=f12e146] [cursor=pointer]:
+              - /url: Mailto:sxs@shixiseng.com
+        - generic [ref=f12e147]: 成都萌想科技有限责任公司版权所有 中国专注实习、校招垂直招聘平台
+        - link "川公网安备 51019002001179号" [ref=f12e148] [cursor=pointer]:
+          - /url: //www.beian.gov.cn/portal/registerSystemInfo?recordcode=51019002001179
+        - link "经营资质" [ref=f12e150] [cursor=pointer]:
+          - /url: https://resume.shixiseng.com/credentials
+  - generic [ref=f12e160]:
+    - link "短信登录" [ref=f12e161] [cursor=pointer]:
+      - /url: "#"
+    - link "密码登录" [ref=f12e162] [cursor=pointer]:
+      - /url: "#"
+    - generic "使用新浪微博账号登录" [ref=f12e163] [cursor=pointer]: 微博登录
+    - generic "使用腾讯QQ账号登录" [ref=f12e164] [cursor=pointer]: QQ登录
+  - text:  
+  - iframe [ref=f12e166]:
+    - generic [ref=f13e2]:
+      - generic [ref=f13e4]:
+        - generic [ref=f13e5]: 安全验证
+        - generic: 返回
+      - generic:
+        - option
+      - generic [ref=f13e14]:
+        - generic [ref=f13e15]: 拖动下方滑块完成拼图
+        - generic [ref=f13e22]:
+          - img "feedback" [ref=f13e25] [cursor=pointer]
+          - img "refresh" [ref=f13e28] [cursor=pointer]
+  - generic [ref=f12e167]:
+    - generic [ref=f12e168] [cursor=pointer]
+    - generic [ref=f12e170] [cursor=pointer]
+    - generic [ref=f12e172] [cursor=pointer]
+    - generic [ref=f12e174] [cursor=pointer]

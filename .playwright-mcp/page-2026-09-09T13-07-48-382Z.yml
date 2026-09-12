@@ -1,0 +1,415 @@
+- generic [active] [ref=f81e1]:
+  - generic [ref=f81e2]:
+    - generic [ref=f81e4]:
+      - link "BOSS直聘" [ref=f81e6] [cursor=pointer]:
+        - /url: https://www.zhipin.com/
+      - list [ref=f81e8]:
+        - listitem [ref=f81e9]:
+          - link "首页" [ref=f81e10] [cursor=pointer]:
+            - /url: https://www.zhipin.com/
+        - listitem [ref=f81e11]:
+          - link "职位" [ref=f81e12] [cursor=pointer]:
+            - /url: https://www.zhipin.com/web/geek/jobs
+        - list [ref=f81e13]:
+          - listitem [ref=f81e14]:
+            - link "公司" [ref=f81e15] [cursor=pointer]:
+              - /url: https://www.zhipin.com/gongsi/
+        - list [ref=f81e16]:
+          - listitem [ref=f81e17]:
+            - link "校园" [ref=f81e18] [cursor=pointer]:
+              - /url: https://www.zhipin.com/school/
+          - listitem [ref=f81e20]:
+            - link "海归" [ref=f81e21] [cursor=pointer]:
+              - /url: https://www.zhipin.com/returnee_jobs/
+        - listitem [ref=f81e22]:
+          - link "APP" [ref=f81e23] [cursor=pointer]:
+            - /url: https://app.zhipin.com/
+        - listitem [ref=f81e24]:
+          - link "有了" [ref=f81e25] [cursor=pointer]:
+            - /url: https://youle.zhipin.com/recommend/selected/
+        - listitem [ref=f81e26]:
+          - link "海外" [ref=f81e27] [cursor=pointer]:
+            - /url: https://www.zhipin.com/overseas/
+        - listitem [ref=f81e28]:
+          - link "无障碍专区" [ref=f81e29] [cursor=pointer]:
+            - /url: https://www.zhipin.com/accessible_job/
+      - generic [ref=f81e30]:
+        - generic:
+          - paragraph [ref=f81e32]:
+            - textbox "搜索职位、公司" [ref=f81e33]
+          - button "搜索" [ref=f81e34] [cursor=pointer]
+      - generic [ref=f81e36]:
+        - generic [ref=f81e37]:
+          - link "我要招聘" [ref=f81e38] [cursor=pointer]:
+            - /url: https://www.zhipin.com/web/user/?intent=1
+          - link "我要找工作" [ref=f81e39] [cursor=pointer]:
+            - /url: https://www.zhipin.com/web/user/?intent=0
+        - link "登录/注册" [ref=f81e40] [cursor=pointer]:
+          - /url: https://www.zhipin.com/web/user/
+    - generic [ref=f81e41]:
+      - generic [ref=f81e44]:
+        - generic [ref=f81e45]:
+          - generic [ref=f81e46]: 职位已关闭
+          - heading "Agent产品工程师-日常实习" [level=1] [ref=f81e49]
+          - paragraph [ref=f81e50]:
+            - link "深圳" [ref=f81e51] [cursor=pointer]:
+              - /url: /shenzhen/
+            - text: 5天/周 3个月 本科
+          - link "查看更多优选职位" [ref=f81e54] [cursor=pointer]:
+            - /url: /c101280600-p110101/e_109/
+        - generic [ref=f81e55]:
+          - generic [ref=f81e56] [cursor=pointer]: ...
+          - generic [ref=f81e58]:
+            - generic [ref=f81e59]: 节日福利
+            - generic [ref=f81e60]: 高温补贴
+            - generic [ref=f81e61]: 团建聚餐
+            - generic [ref=f81e62]: 零食下午茶
+            - generic [ref=f81e63]: 带薪年假
+            - generic [ref=f81e64]: 节假日加班费
+            - generic [ref=f81e65]: 股票期权
+            - generic [ref=f81e66]: 年终奖
+            - generic [ref=f81e67]: 定期体检
+            - generic [ref=f81e68]: 五险一金
+      - generic [ref=f81e70]:
+        - generic [ref=f81e71]:
+          - generic [ref=f81e72]:
+            - paragraph [ref=f81e73]: 公司基本信息
+            - generic [ref=f81e74]:
+              - link "妙动科技" [ref=f81e75] [cursor=pointer]:
+                - /url: /gongsi/e6888e42610efce01H1z3t61FlY~.html
+              - link "妙动科技" [ref=f81e76] [cursor=pointer]:
+                - /url: /gongsi/e6888e42610efce01H1z3t61FlY~.html
+            - paragraph [ref=f81e77]: A轮
+            - paragraph [ref=f81e79]: 100-499人
+            - paragraph [ref=f81e81]:
+              - link "智能硬件/消费电子" [ref=f81e83] [cursor=pointer]:
+                - /url: /i101401/
+            - link "查看全部职位" [ref=f81e84] [cursor=pointer]:
+              - /url: /gongsi/job/e6888e42610efce01H1z3t61FlY~.html
+          - link [ref=f81e86] [cursor=pointer]:
+            - /url: https://app.zhipin.com/
+        - generic [ref=f81e87]:
+          - generic [ref=f81e88]:
+            - generic [ref=f81e89]:
+              - generic [ref=f81e91]:
+                - link "微信扫 码 分享" [ref=f81e92] [cursor=pointer]:
+                  - /url: javascript:;
+                  - text: 微信扫
+                  - generic [ref=f81e93]: 码
+                  - text: 分享
+                - link "举 报" [ref=f81e94] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [ref=f81e95]: 举
+                  - text: 报
+              - heading "职位描述" [level=3] [ref=f81e97]
+              - generic [ref=f81e98]: 岗位职责1. AI Agent 工作流搭 建与调优： - 负责机器人核心交互场景（如对话伴读、任务执行）的 AI Agent 搭建。 - 通过⾼阶 Prompt Engineering（提⽰词⼯程）及工作流编排工具，调试 LLM 的输出效果，确保机器⼈在角色扮演、指令遵循上的准确性与稳定性。2. 产品功能工程化落地： - 参与产品需求评审，从技术可行性角度提供解决方案。将模糊的产品需求转化为可执行的工程逻辑。3. 机器人行为与交互设计： - 配合算法团队，定义机器人的多模态交互体验（语音+动作+表情）。 - 负责部分机器人行为逻辑的配置与调试，提升人机交互的自然度。4. 效果评估与迭代： - 建立 Badcase 发现与反馈机制，持续优化模型回复质量和响应延迟，确保产品体验达到标准。任职要求【核心能力 - Must Have】- 机器人产品 Sense
+              - generic [ref=f81e99]:
+                - heading "刘女士 刚刚活跃" [level=2] [ref=f81e101]:
+                  - text: 刘女士
+                  - generic [ref=f81e103]: 刚刚活跃
+                - generic [ref=f81e104]:
+                  - text: 妙动科技
+                  - emphasis [ref=f81e105]: ·
+                  - text: HR
+            - generic [ref=f81e106]:
+              - heading "竞争力分析" [level=3] [ref=f81e107]
+              - generic [ref=f81e108]:
+                - generic [ref=f81e109]:
+                  - generic [ref=f81e110]: 加载中...
+                  - generic [ref=f81e111]:
+                    - text: 个人综合排名：
+                    - generic [ref=f81e112]: 在人中排名第
+                - generic [ref=f81e115]:
+                  - emphasis [ref=f81e118]: 一般
+                  - emphasis [ref=f81e120]: 良好
+                  - emphasis [ref=f81e122]: 优秀
+                  - emphasis [ref=f81e124]: 极好
+            - generic [ref=f81e125]:
+              - heading "BOSS 安全提示" [level=3] [ref=f81e126]
+              - paragraph [ref=f81e127]:
+                - text: BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，
+                - link "请立即举报" [ref=f81e128] [cursor=pointer]:
+                  - /url: javascript:;
+            - generic [ref=f81e129]:
+              - generic [ref=f81e130]:
+                - heading "公司介绍" [level=3] [ref=f81e131]
+                - generic [ref=f81e132]: Mondo Tech妙动科技成立于2025年1月，总部坐落于深圳南山，在美国硅谷Palo Alto设有研发办公室，我们以全栈式机器人核心技术为基石、以兼具可玩性与智能化的娱乐机器人产品为载体，致力于成为全球领先的消费智能机器人公司。我们的团队成员主要来自大疆、华为、OPPO等头部智能硬件厂商及卡内基梅隆大学、香港科技大学、上海交通大学等知名高校，在机器人算法、相机硬件、电机结构、图传等领域经验丰富。我们崇尚科技创新，实行扁平化管理，氛围轻松融洽。期待您的加入，一起开创智能机器人新时代！创始人背景：CEO：高建荣，武汉大学学士学位，历任大疆总经理助理、RoboMaster总监、供应链负责人、市场部负责人及大疆教育负责人，经过8年时间，把RoboMaster打造成全球最好的机器人赛事。CTO：杨硕，香港科技大学硕士&卡内基梅隆大学机器人学博士，博士期间从事复杂机器人系统运动轨迹规划方面的研究，前大疆智能导航技术总监，参与Phantom4、Mavic的开发工作，前特斯拉人形机器人Optimus运动控制模块负责人和核心架构师。
+                - link "查看全部" [ref=f81e133] [cursor=pointer]:
+                  - /url: /gongsi/e6888e42610efce01H1z3t61FlY~.html
+              - generic [ref=f81e134]:
+                - heading "工商信息" [level=3] [ref=f81e135]
+                - generic [ref=f81e136]:
+                  - list [ref=f81e137]:
+                    - listitem [ref=f81e138]:
+                      - generic [ref=f81e139]: 公司名称
+                      - text: 深圳市妙动科技有限公司
+                    - listitem [ref=f81e140]:
+                      - generic [ref=f81e141]: 法定代表人
+                      - text: 高建荣
+                    - listitem [ref=f81e142]:
+                      - generic [ref=f81e143]: 成立日期
+                      - text: 2025-01-06
+                    - listitem [ref=f81e144]:
+                      - generic [ref=f81e145]: 企业类型
+                      - text: 有限责任公司（外商投资、非独资）
+                    - listitem [ref=f81e146]:
+                      - generic [ref=f81e147]: 经营状态
+                      - text: 存续
+                    - listitem [ref=f81e148]:
+                      - generic [ref=f81e149]: 注册资金
+                      - text: 140.6468万元
+                  - link "查看全部" [ref=f81e150] [cursor=pointer]:
+                    - /url: /gongsi/e6888e42610efce01H1z3t61FlY~.html
+              - generic [ref=f81e151]:
+                - heading "工作地址" [level=3] [ref=f81e152]
+                - generic [ref=f81e153]:
+                  - generic [ref=f81e154]: 深圳南山区金地威新软件科技园一号楼
+                  - generic [ref=f81e155] [cursor=pointer]:
+                    - img "公司地址" [ref=f81e156]
+                    - paragraph [ref=f81e157]: 点击查看地图
+            - link "查看全部" [ref=f81e159] [cursor=pointer]:
+              - /url: javascript:;
+          - generic [ref=f81e161]:
+            - heading [level=3] [ref=f81e162]:
+              - link "更多职位" [ref=f81e163] [cursor=pointer]:
+                - /url: /c101280600-p110101/e_109/
+              - text: 看过该职位的人还看了
+            - list [ref=f81e164]:
+              - listitem [ref=f81e165]:
+                - link "硬件产品实习生(A28474) 其域 深圳" [ref=f81e166] [cursor=pointer]:
+                  - /url: /job_detail/62f71978592ec1ba0nZ53Ni0GFNR.html
+                  - generic [ref=f81e167]:
+                    - generic [ref=f81e168]: 硬件产品实习生(A28474)
+                    - paragraph
+                  - generic [ref=f81e169]:
+                    - generic [ref=f81e170]: 其域
+                    - generic [ref=f81e173]: 深圳
+              - listitem [ref=f81e174]:
+                - link "【实习】产品经理-用户体验-SZ Shopee 深圳" [ref=f81e175] [cursor=pointer]:
+                  - /url: /job_detail/8b0fa0ecf15d88260nB73Nm-GFBY.html
+                  - generic [ref=f81e176]:
+                    - generic [ref=f81e177]: 【实习】产品经理-用户体验-SZ
+                    - paragraph
+                  - generic [ref=f81e178]:
+                    - generic [ref=f81e179]: Shopee
+                    - generic [ref=f81e182]: 深圳
+              - listitem [ref=f81e183]:
+                - link "人形机器人产品实习生 逐际动力 深圳" [ref=f81e184] [cursor=pointer]:
+                  - /url: /job_detail/566bcfe6d8ed995c0nd_0tW0EVdW.html
+                  - generic [ref=f81e185]:
+                    - generic [ref=f81e186]: 人形机器人产品实习生
+                    - paragraph
+                  - generic [ref=f81e187]:
+                    - generic [ref=f81e188]: 逐际动力
+                    - generic [ref=f81e191]: 深圳
+              - listitem [ref=f81e192]:
+                - link "软件产品经理实习生 影石Insta360 深圳" [ref=f81e193] [cursor=pointer]:
+                  - /url: /job_detail/b7cdb71c82dde0eb0nd83ty7F1dW.html
+                  - generic [ref=f81e194]:
+                    - generic [ref=f81e195]: 软件产品经理实习生
+                    - paragraph
+                  - generic [ref=f81e196]:
+                    - generic [ref=f81e197]: 影石Insta360
+                    - generic [ref=f81e200]: 深圳
+              - listitem [ref=f81e201]:
+                - link "影像产品实习生 OBSBOT寻影 深圳" [ref=f81e202] [cursor=pointer]:
+                  - /url: /job_detail/911bea8be16fc9c00nBz09m_GVBS.html
+                  - generic [ref=f81e203]:
+                    - generic [ref=f81e204]: 影像产品实习生
+                    - paragraph
+                  - generic [ref=f81e205]:
+                    - generic [ref=f81e206]: OBSBOT寻影
+                    - generic [ref=f81e209]: 深圳
+              - listitem [ref=f81e210]:
+                - link "IT产品经理实习生 韶音科技 深圳" [ref=f81e211] [cursor=pointer]:
+                  - /url: /job_detail/52221c1908c4fb980nB53du9GFRY.html
+                  - generic [ref=f81e212]:
+                    - generic [ref=f81e213]: IT产品经理实习生
+                    - paragraph
+                  - generic [ref=f81e214]:
+                    - generic [ref=f81e215]: 韶音科技
+                    - generic [ref=f81e218]: 深圳
+          - generic [ref=f81e219]:
+            - generic [ref=f81e220]:
+              - heading "精选职位" [level=3] [ref=f81e221]
+              - generic [ref=f81e222]:
+                - list [ref=f81e223]:
+                  - listitem [ref=f81e224]:
+                    - list [ref=f81e225]:
+                      - listitem [ref=f81e226]:
+                        - link "广告产品实习生-App商业化变现方向（05） 乔安 深圳" [ref=f81e227] [cursor=pointer]:
+                          - /url: /job_detail/03fa1787ad88e38c0nF82d6_GVRT.html
+                          - generic [ref=f81e228]:
+                            - generic [ref=f81e229]: 广告产品实习生-App商业化变现方向（05）
+                            - paragraph
+                          - generic [ref=f81e230]:
+                            - generic [ref=f81e231]: 乔安
+                            - generic [ref=f81e234]: 深圳
+                      - listitem [ref=f81e235]:
+                        - link "产品经理实习生 深圳融力通 深圳" [ref=f81e236] [cursor=pointer]:
+                          - /url: /job_detail/53d35ec72766c54a0nR52tm_EltQ.html
+                          - generic [ref=f81e237]:
+                            - generic [ref=f81e238]: 产品经理实习生
+                            - paragraph
+                          - generic [ref=f81e239]:
+                            - generic [ref=f81e240]: 深圳融力通
+                            - generic [ref=f81e243]: 深圳
+                      - listitem [ref=f81e244]:
+                        - link "实习生 九学王 深圳" [ref=f81e245] [cursor=pointer]:
+                          - /url: /job_detail/88df13def9d4b8070nVz3t66E1VW.html
+                          - generic [ref=f81e246]:
+                            - generic [ref=f81e247]: 实习生
+                            - paragraph
+                          - generic [ref=f81e248]:
+                            - generic [ref=f81e249]: 九学王
+                            - generic [ref=f81e252]: 深圳
+                      - listitem [ref=f81e253]:
+                        - link "软件产品实习生 影石Insta360 深圳" [ref=f81e254] [cursor=pointer]:
+                          - /url: /job_detail/7259cf2710eadc3103N-39i7FFVZ.html
+                          - generic [ref=f81e255]:
+                            - generic [ref=f81e256]: 软件产品实习生
+                            - paragraph
+                          - generic [ref=f81e257]:
+                            - generic [ref=f81e258]: 影石Insta360
+                            - generic [ref=f81e261]: 深圳
+                      - listitem [ref=f81e262]:
+                        - link "产品实习生 影石Insta360 深圳" [ref=f81e263] [cursor=pointer]:
+                          - /url: /job_detail/05d1c1135b731a600nR93NS5EFpT.html
+                          - generic [ref=f81e264]:
+                            - generic [ref=f81e265]: 产品实习生
+                            - paragraph
+                          - generic [ref=f81e266]:
+                            - generic [ref=f81e267]: 影石Insta360
+                            - generic [ref=f81e270]: 深圳
+                      - listitem [ref=f81e271]:
+                        - link "硬件产品实习生 北京亮亮视野 深圳" [ref=f81e272] [cursor=pointer]:
+                          - /url: /job_detail/520e35b9258fb1fa0nF_2t-9F1dW.html
+                          - generic [ref=f81e273]:
+                            - generic [ref=f81e274]: 硬件产品实习生
+                            - paragraph
+                          - generic [ref=f81e275]:
+                            - generic [ref=f81e276]: 北京亮亮视野
+                            - generic [ref=f81e279]: 深圳
+                - generic [ref=f81e280]:
+                  - generic [ref=f81e281] [cursor=pointer]
+                  - generic [ref=f81e282] [cursor=pointer]
+                  - generic [ref=f81e283] [cursor=pointer]
+                  - generic [ref=f81e284] [cursor=pointer]
+                  - generic [ref=f81e285] [cursor=pointer]
+            - generic [ref=f81e288]:
+              - generic [ref=f81e289]:
+                - generic [ref=f81e290] [cursor=pointer]: 深圳
+                - paragraph [ref=f81e293]:
+                  - textbox "搜索职位、公司" [ref=f81e294]: 产品经理
+              - button "搜索" [ref=f81e295] [cursor=pointer]
+          - generic [ref=f81e297]:
+            - generic [ref=f81e298]:
+              - generic [ref=f81e299] [cursor=pointer]: 城市招聘
+              - generic [ref=f81e300] [cursor=pointer]: 热门职位
+              - generic [ref=f81e301] [cursor=pointer]: 推荐公司
+              - generic [ref=f81e302] [cursor=pointer]: 热门企业
+            - generic [ref=f81e304]:
+              - link "贵港招聘" [ref=f81e305] [cursor=pointer]:
+                - /url: /c101300800/
+              - link "淮北招聘" [ref=f81e306] [cursor=pointer]:
+                - /url: /c101221100/
+              - link "乌兰察布招聘" [ref=f81e307] [cursor=pointer]:
+                - /url: /c101080900/
+              - link "铁岭招聘" [ref=f81e308] [cursor=pointer]:
+                - /url: /c101071100/
+              - link "平凉招聘" [ref=f81e309] [cursor=pointer]:
+                - /url: /c101160300/
+              - link "株洲招聘" [ref=f81e310] [cursor=pointer]:
+                - /url: /c101250300/
+              - link "忻州招聘" [ref=f81e311] [cursor=pointer]:
+                - /url: /c101101000/
+              - link "抚州招聘" [ref=f81e312] [cursor=pointer]:
+                - /url: /c101240400/
+              - link "鄂尔多斯招聘" [ref=f81e313] [cursor=pointer]:
+                - /url: /c101080600/
+              - link "宜昌招聘" [ref=f81e314] [cursor=pointer]:
+                - /url: /c101200900/
+          - generic [ref=f81e315]:
+            - link "首页" [ref=f81e316] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f81e317]:
+              - link "深圳招聘" [ref=f81e318] [cursor=pointer]:
+                - /url: /c101280600/
+              - text: ·
+              - link "产品经理招聘" [ref=f81e319] [cursor=pointer]:
+                - /url: /p110101/
+            - link "深圳产品经理招聘" [ref=f81e320] [cursor=pointer]:
+              - /url: /c101280600-p110101/
+            - link "妙动科技产品经理招聘" [ref=f81e321] [cursor=pointer]:
+              - /url: /job_detail/89e78dba7ffb25b20nV63N61FlZQ.html
+          - paragraph [ref=f81e322]: 页面更新时间：2026-09-09
+  - generic [ref=f81e324]:
+    - generic [ref=f81e325]:
+      - paragraph [ref=f81e326]: 企业服务热线和算法/未成年人等举报渠道 400 065 5799
+      - paragraph [ref=f81e327]: 老年人直连热线400 661 6030
+      - paragraph [ref=f81e328]: 工作日 8:00 - 22:00
+      - paragraph [ref=f81e329]: 休息日 8:00 - 22:00
+      - paragraph [ref=f81e330]:
+        - link [ref=f81e331] [cursor=pointer]:
+          - /url: https://www.weibo.com/bosszhipin
+        - link [ref=f81e332] [cursor=pointer]:
+          - /url: javascript:;
+        - link [ref=f81e333] [cursor=pointer]:
+          - /url: https://app.zhipin.com
+        - link "boss直聘电脑端下载" [ref=f81e334] [cursor=pointer]:
+          - /url: https://www.zhipin.com/desktop/
+    - generic [ref=f81e335]:
+      - generic [ref=f81e336]:
+        - term [ref=f81e337]: 企业服务
+        - definition [ref=f81e338]:
+          - link "职位搜索" [ref=f81e339] [cursor=pointer]:
+            - /url: https://www.zhipin.com/job_detail/
+          - link "BOSS直聘APP" [ref=f81e340] [cursor=pointer]:
+            - /url: https://app.zhipin.com/
+          - link "投资者关系 Investor Relations" [ref=f81e341] [cursor=pointer]:
+            - /url: https://ir.zhipin.com/
+          - link "直品公益基金会" [ref=f81e342] [cursor=pointer]:
+            - /url: https://gongyi.zhipin.com/home
+          - link "求职技巧" [ref=f81e343] [cursor=pointer]:
+            - /url: https://www.zhipin.com/web/common/geo/article-list.html
+      - generic [ref=f81e344]:
+        - term [ref=f81e345]: 使用与帮助
+        - definition [ref=f81e346]:
+          - link "协议与规则" [ref=f81e347] [cursor=pointer]:
+            - /url: https://about.zhipin.com/agreement
+          - link "隐私政策" [ref=f81e348] [cursor=pointer]:
+            - /url: https://about.zhipin.com/agreement?id=personalinfopro
+          - link "防骗指南" [ref=f81e349] [cursor=pointer]:
+            - /url: https://www.zhipin.com/web/common/protocol/cheat-guide.html
+          - link "使用帮助" [ref=f81e350] [cursor=pointer]:
+            - /url: https://www.zhipin.com/web/common/protocol/use-help.html
+      - generic [ref=f81e351]:
+        - term [ref=f81e352]: 联系BOSS直聘
+        - definition [ref=f81e353]:
+          - paragraph [ref=f81e354]: 北京华品博睿网络技术有限公司
+          - paragraph [ref=f81e355]: 公司地址 北京市朝阳区太阳宫中路16号院1号楼18层1801内09
+          - paragraph [ref=f81e356]:
+            - text: 违法和不良信息举报邮箱/未成年人举报渠道
+            - link "jubao@kanzhun.com" [ref=f81e357] [cursor=pointer]:
+              - /url: mailto:jubao@kanzhun.com
+    - paragraph [ref=f81e359]:
+      - generic [ref=f81e360]: Copyright © 2026 BOSS直聘
+      - link "京ICP备14013441号-5" [ref=f81e362] [cursor=pointer]:
+        - /url: https://beian.miit.gov.cn/
+      - generic [ref=f81e363]: 京ICP证150923号
+      - link "电子营业执照" [ref=f81e365] [cursor=pointer]:
+        - /url: https://www.zhipin.com/web/common/protocol/business-license.html
+      - link "京公网安备11010502032801" [ref=f81e367] [cursor=pointer]:
+        - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502032801
+      - link "朝阳网警" [ref=f81e369] [cursor=pointer]:
+        - /url: https://sdwj.zhipin.com/web/index.html
+      - link "人力资源服务许可证" [ref=f81e371] [cursor=pointer]:
+        - /url: https://www.zhipin.com/web/common/protocol/hr-service.html
+      - link "网上有害信息举报专区" [ref=f81e373] [cursor=pointer]:
+        - /url: https://www.12377.cn
+      - generic [ref=f81e374] [cursor=pointer]: 朝阳区人社局监督电话
+      - link "算法备案信息" [ref=f81e376] [cursor=pointer]:
+        - /url: https://about.zhipin.com/agreement?id=b9f73536711c4928bde84337cb53aa91
+  - text: 正在加载中 正在加载中
+  - iframe
+  - text: 前往App 与BOSS随时沟通

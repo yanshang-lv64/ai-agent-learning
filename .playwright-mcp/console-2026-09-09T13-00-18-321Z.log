@@ -1,0 +1,3 @@
+[   12429ms] [LOG] {address: undefined, apply_link: undefined, appointment_info: undefined, attraction: undefined, baike_info: undefined} @ https://sxsimg.xiaoyuanzhao.com/static_sxs/dist/desktop/dist/client/068cd99.js:0
+[   12444ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://www.shixiseng.com/intern/inn_ehz59mpq7ohu:0
+[   13318ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://sxsimg.xiaoyuanzhao.com/static_sxs/dist/desktop/dist/client/fonts/iconfont.2d1b17b.woff2 @ https://www.shixiseng.com/intern/inn_ehz59mpq7ohu:0

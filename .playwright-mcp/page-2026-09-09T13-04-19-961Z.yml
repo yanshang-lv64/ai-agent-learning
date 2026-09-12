@@ -1,0 +1,435 @@
+- generic [active] [ref=f34e1]:
+  - generic [ref=f34e2]:
+    - generic [ref=f34e4]:
+      - link "BOSS直聘" [ref=f34e6] [cursor=pointer]:
+        - /url: https://www.zhipin.com/
+      - list [ref=f34e8]:
+        - listitem [ref=f34e9]:
+          - link "首页" [ref=f34e10] [cursor=pointer]:
+            - /url: https://www.zhipin.com/
+        - listitem [ref=f34e11]:
+          - link "职位" [ref=f34e12] [cursor=pointer]:
+            - /url: https://www.zhipin.com/web/geek/jobs
+        - list [ref=f34e13]:
+          - listitem [ref=f34e14]:
+            - link "公司" [ref=f34e15] [cursor=pointer]:
+              - /url: https://www.zhipin.com/gongsi/
+        - list [ref=f34e16]:
+          - listitem [ref=f34e17]:
+            - link "校园" [ref=f34e18] [cursor=pointer]:
+              - /url: https://www.zhipin.com/school/
+          - listitem [ref=f34e20]:
+            - link "海归" [ref=f34e21] [cursor=pointer]:
+              - /url: https://www.zhipin.com/returnee_jobs/
+        - listitem [ref=f34e22]:
+          - link "APP" [ref=f34e23] [cursor=pointer]:
+            - /url: https://app.zhipin.com/
+        - listitem [ref=f34e24]:
+          - link "有了" [ref=f34e25] [cursor=pointer]:
+            - /url: https://youle.zhipin.com/recommend/selected/
+        - listitem [ref=f34e26]:
+          - link "海外" [ref=f34e27] [cursor=pointer]:
+            - /url: https://www.zhipin.com/overseas/
+        - listitem [ref=f34e28]:
+          - link "无障碍专区" [ref=f34e29] [cursor=pointer]:
+            - /url: https://www.zhipin.com/accessible_job/
+      - generic [ref=f34e30]:
+        - generic:
+          - paragraph [ref=f34e32]:
+            - textbox "搜索职位、公司" [ref=f34e33]
+          - button "搜索" [ref=f34e34] [cursor=pointer]
+      - generic [ref=f34e36]:
+        - generic [ref=f34e37]:
+          - link "我要招聘" [ref=f34e38] [cursor=pointer]:
+            - /url: https://www.zhipin.com/web/user/?intent=1
+          - link "我要找工作" [ref=f34e39] [cursor=pointer]:
+            - /url: https://www.zhipin.com/web/user/?intent=0
+        - link "登录/注册" [ref=f34e40] [cursor=pointer]:
+          - /url: https://www.zhipin.com/web/user/
+    - generic [ref=f34e41]:
+      - generic [ref=f34e44]:
+        - generic [ref=f34e45]:
+          - generic [ref=f34e46]: 招聘中
+          - heading "后端工程 / Agent 实习生" [level=1] [ref=f34e49]
+          - paragraph [ref=f34e50]:
+            - link "深圳" [ref=f34e51] [cursor=pointer]:
+              - /url: /shenzhen/
+            - text: 5天/周 3个月 本科
+          - generic [ref=f34e53]:
+            - link "感兴趣" [ref=f34e54] [cursor=pointer]:
+              - /url: javascript:;
+            - link "立即沟通" [ref=f34e56] [cursor=pointer]:
+              - /url: javascript:;
+        - generic [ref=f34e57]:
+          - generic [ref=f34e58] [cursor=pointer]: ...
+          - generic [ref=f34e60]:
+            - generic [ref=f34e61]: 有无线网
+            - generic [ref=f34e62]: 团建聚餐
+            - generic [ref=f34e63]: 零食下午茶
+            - generic [ref=f34e64]: 餐补
+            - generic [ref=f34e65]: 股票期权
+            - generic [ref=f34e66]: 年终奖
+            - generic [ref=f34e67]: 五险一金
+      - generic [ref=f34e69]:
+        - generic [ref=f34e70]:
+          - generic [ref=f34e72]:
+            - generic [ref=f34e73] [cursor=pointer]
+            - heading "各大行业职位任你选" [level=3] [ref=f34e75]
+            - generic [ref=f34e76]: 首次验证通过即注册BOSS直聘账号
+            - generic [ref=f34e77]:
+              - generic [ref=f34e78]:
+                - generic [ref=f34e79]:
+                  - generic [ref=f34e80] [cursor=pointer]
+                  - emphasis [ref=f34e81] [cursor=pointer]: "+86"
+                - textbox "手机号" [ref=f34e84]
+              - generic: 正在加载中
+              - generic [ref=f34e85]:
+                - textbox "短信验证码" [ref=f34e88]
+                - button "发送验证码" [ref=f34e89] [cursor=pointer]
+              - button "登录/注册" [ref=f34e91] [cursor=pointer]
+              - generic [ref=f34e92]:
+                - checkbox [ref=f34e93]
+                - text: 已阅读并同意BOSS直聘
+                - link "《用户协议》" [ref=f34e94] [cursor=pointer]:
+                  - /url: https://about.zhipin.com/agreement?id=registerprotocol
+                - link "《隐私政策》" [ref=f34e95] [cursor=pointer]:
+                  - /url: https://about.zhipin.com/agreement?id=personalinfopro
+                - text: ，允许BOSS直聘统一管理本人账号信息
+          - generic [ref=f34e96]:
+            - paragraph [ref=f34e97]: 公司基本信息
+            - generic [ref=f34e98]:
+              - link "向纺未来" [ref=f34e99] [cursor=pointer]:
+                - /url: /gongsi/ad29911163a761a10nZ73du5FA~~.html
+              - link "向纺未来" [ref=f34e100] [cursor=pointer]:
+                - /url: /gongsi/ad29911163a761a10nZ73du5FA~~.html
+            - paragraph [ref=f34e101]: 天使轮
+            - paragraph [ref=f34e103]: 0-20人
+            - paragraph [ref=f34e105]:
+              - link "智能硬件" [ref=f34e107] [cursor=pointer]:
+                - /url: /i100018/
+            - link "查看全部职位" [ref=f34e108] [cursor=pointer]:
+              - /url: /gongsi/job/ad29911163a761a10nZ73du5FA~~.html
+          - link [ref=f34e110] [cursor=pointer]:
+            - /url: https://app.zhipin.com/
+        - generic [ref=f34e111]:
+          - generic [ref=f34e112]:
+            - generic [ref=f34e114]:
+              - link "微信 扫码分享" [ref=f34e115] [cursor=pointer]:
+                - /url: javascript:;
+              - link "举 报" [ref=f34e116] [cursor=pointer]:
+                - /url: javascript:;
+            - heading "职位描 述" [level=3] [ref=f34e118]
+            - list [ref=f34e119]:
+              - listitem [ref=f34e120]: PostgreSQL
+              - listitem [ref=f34e121]: Redis
+              - listitem [ref=f34e122]: Python
+              - listitem [ref=f34e123]: Flask
+            - generic [ref=f34e124]: Striv 正在 打造下一代 AI 运动教 练（AI Movement Agent），通过传感器采集运动数据，并结合 AI 分析用户的运动方式，提供个性化反馈，帮助提升表现并降低受伤风险。岗位职责：1、参与 Striv 后端服务与 AI Agent 相关系统的开发与迭代，⽀持智能反馈、数据分析、任务编排等核⼼能⼒建设；2、参与 Agent 服务链路开发，包括 Prompt/工具调用、上下⽂管理、结果结构化、异常处理与稳定性优化；3、参与运动数据、设备数据与用户数据的后端接口设计、处理与存储，支撑 App、硬件与算法系统协同；4、与算法、固件、客户端、产品团队紧密协作，推动智能功能从原型到生产环境落地；5、参与后端服务性能优化、日志监控、错误排查与工程规范建设，提升系统稳定性与开发效率；6、协助定位线上问题，参与版本迭代与功能上线，保障服务可用性与响应质量。岗位要求：1、本
+            - generic [ref=f34e125]:
+              - heading "陈先生 3日内活跃" [level=2] [ref=f34e127]:
+                - text: 陈先生
+                - generic [ref=f34e129]: 3日内活跃
+              - generic [ref=f34e130]:
+                - text: 向纺未来
+                - emphasis [ref=f34e131]: ·
+                - text: 招聘者
+          - generic [ref=f34e132]:
+            - heading "竞争力分析" [level=3] [ref=f34e133]
+            - generic [ref=f34e134]:
+              - generic [ref=f34e135]:
+                - link "查看完整个人竞争力" [ref=f34e137] [cursor=pointer]:
+                  - /url: javascript:;
+                - generic [ref=f34e138]:
+                  - text: 个人综合排名：
+                  - generic [ref=f34e139]: 在人中排名第
+              - generic [ref=f34e142]:
+                - paragraph [ref=f34e143]: 你在？位置
+                - emphasis [ref=f34e146]: 一般
+                - emphasis [ref=f34e148]: 良好
+                - emphasis [ref=f34e150]: 优秀
+                - emphasis [ref=f34e152]: 极好
+          - generic [ref=f34e153]:
+            - heading "BOSS 安全提示" [level=3] [ref=f34e154]
+            - paragraph [ref=f34e155]:
+              - text: BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，
+              - link "请立即举报" [ref=f34e156] [cursor=pointer]:
+                - /url: javascript:;
+          - generic [ref=f34e157]:
+            - generic [ref=f34e158]:
+              - heading "公司介绍" [level=3] [ref=f34e159]
+              - generic [ref=f34e160]: 本公司是聚焦智能穿戴+AI智能反馈的初创企业，核心深耕运动场景。目前公司处于扩张期，核心产品完成早期验证，目前处于快速迭代升级阶段，团队年轻且技术氛围浓厚，毕业于MIT, Harvard, Columbia等高校；未来将持续发力AI与智能穿戴的融合创新，拓展多运动场景产品矩阵，诚邀技术伙伴加入，一起打造运动智能穿戴领域的创新品牌。
+            - generic [ref=f34e161]:
+              - heading "工商信息" [level=3] [ref=f34e162]
+              - generic [ref=f34e163]:
+                - list [ref=f34e164]:
+                  - listitem [ref=f34e165]:
+                    - generic [ref=f34e166]: 公司名称
+                    - text: 深圳向纺未来科技有限公司
+                  - listitem [ref=f34e167]:
+                    - generic [ref=f34e168]: 法定代表人
+                    - text: 陈梓嘉
+                  - listitem [ref=f34e169]:
+                    - generic [ref=f34e170]: 成立日期
+                    - text: 2019-05-31
+                  - listitem [ref=f34e171]:
+                    - generic [ref=f34e172]: 企业类型
+                    - text: 有限责任公司（港澳台投资、非独资）
+                  - listitem [ref=f34e173]:
+                    - generic [ref=f34e174]: 经营状态
+                    - text: 存续
+                  - listitem [ref=f34e175]:
+                    - generic [ref=f34e176]: 注册资金
+                    - text: 793.6509万
+                - link "查看全部" [ref=f34e177] [cursor=pointer]:
+                  - /url: /gongsi/ad29911163a761a10nZ73du5FA~~.html
+            - generic [ref=f34e178]:
+              - heading "工作地址" [level=3] [ref=f34e179]
+              - generic [ref=f34e180]:
+                - generic [ref=f34e181]: 深圳南山区深圳湾科技生态园9a栋
+                - generic [ref=f34e182] [cursor=pointer]:
+                  - img "公司地址" [ref=f34e183]
+                  - paragraph [ref=f34e184]: 点击查看地图
+          - generic [ref=f34e186]:
+            - heading [level=3] [ref=f34e187]:
+              - link "更多职位" [ref=f34e188] [cursor=pointer]:
+                - /url: /c101280600-p100109/e_109/
+              - text: 看过该职位的人还看了
+            - list [ref=f34e189]:
+              - listitem [ref=f34e190]:
+                - link "python开发实习生 领智寻知 深圳" [ref=f34e191] [cursor=pointer]:
+                  - /url: /job_detail/592c1266e86d63891H192tq_GVJS.html
+                  - generic [ref=f34e192]:
+                    - generic [ref=f34e193]: python开发实习生
+                    - paragraph
+                  - generic [ref=f34e194]:
+                    - generic [ref=f34e195]: 领智寻知
+                    - generic [ref=f34e198]: 深圳
+              - listitem [ref=f34e199]:
+                - link "Agent Engineer(实习) 深圳心洲科技有限公司 深圳" [ref=f34e200] [cursor=pointer]:
+                  - /url: /job_detail/4c6b51871404819b0nV92N-6EVpY.html
+                  - generic [ref=f34e201]:
+                    - generic [ref=f34e202]: Agent Engineer(实习)
+                    - paragraph
+                  - generic [ref=f34e203]:
+                    - generic [ref=f34e204]: 深圳心洲科技有限公司
+                    - generic [ref=f34e207]: 深圳
+              - listitem [ref=f34e208]:
+                - link "机器人大脑开发工程师(实习) 福州福数万仞智能科技 深圳" [ref=f34e209] [cursor=pointer]:
+                  - /url: /job_detail/cf05dc609a55e2680nBy3966EFVU.html
+                  - generic [ref=f34e210]:
+                    - generic [ref=f34e211]: 机器人大脑开发工程师(实习)
+                    - paragraph
+                  - generic [ref=f34e212]:
+                    - generic [ref=f34e213]: 福州福数万仞智能科技
+                    - generic [ref=f34e216]: 深圳
+              - listitem [ref=f34e217]:
+                - link "python量化实习生 华遥愿金 深圳" [ref=f34e218] [cursor=pointer]:
+                  - /url: /job_detail/867a41cdcf589f650nB50965FVNZ.html
+                  - generic [ref=f34e219]:
+                    - generic [ref=f34e220]: python量化实习生
+                    - paragraph
+                  - generic [ref=f34e221]:
+                    - generic [ref=f34e222]: 华遥愿金
+                    - generic [ref=f34e225]: 深圳
+              - listitem [ref=f34e226]:
+                - link "ai应用开发工程师(实习) 深圳芯思咨询 深圳" [ref=f34e227] [cursor=pointer]:
+                  - /url: /job_detail/f5bd2ac90761a1da0nF509m7FVdT.html
+                  - generic [ref=f34e228]:
+                    - generic [ref=f34e229]: ai应用开发工程师(实习)
+                    - paragraph
+                  - generic [ref=f34e230]:
+                    - generic [ref=f34e231]: 深圳芯思咨询
+                    - generic [ref=f34e234]: 深圳
+              - listitem [ref=f34e235]:
+                - link "AI框架开发实习生 上海江原芯科技 深圳" [ref=f34e236] [cursor=pointer]:
+                  - /url: /job_detail/d7d48395d817b88b0nBz2t20ElFS.html
+                  - generic [ref=f34e237]:
+                    - generic [ref=f34e238]: AI框架开发实习生
+                    - paragraph
+                  - generic [ref=f34e239]:
+                    - generic [ref=f34e240]: 上海江原芯科技
+                    - generic [ref=f34e243]: 深圳
+          - generic [ref=f34e244]:
+            - generic [ref=f34e245]:
+              - heading "精选职位" [level=3] [ref=f34e246]
+              - generic [ref=f34e247]:
+                - list [ref=f34e248]:
+                  - listitem [ref=f34e249]:
+                    - list [ref=f34e250]:
+                      - listitem [ref=f34e251]:
+                        - link "实习生急招前沿科技XR领域实习 广东深恋发展有限公司 深圳" [ref=f34e252] [cursor=pointer]:
+                          - /url: /job_detail/77821adfae0de18303B43N68FFNX.html
+                          - generic [ref=f34e253]:
+                            - generic [ref=f34e254]: 实习生急招前沿科技XR领域实习
+                            - paragraph
+                          - generic [ref=f34e255]:
+                            - generic [ref=f34e256]: 广东深恋发展有限公司
+                            - generic [ref=f34e259]: 深圳
+                      - listitem [ref=f34e260]:
+                        - link "【深圳】Python数据开发实习生 仲阳天王星 深圳" [ref=f34e261] [cursor=pointer]:
+                          - /url: /job_detail/5899911583ffb7fb03V73Ny6E1JU.html
+                          - generic [ref=f34e262]:
+                            - generic [ref=f34e263]: 【深圳】Python数据开发实习生
+                            - paragraph
+                          - generic [ref=f34e264]:
+                            - generic [ref=f34e265]: 仲阳天王星
+                            - generic [ref=f34e268]: 深圳
+                      - listitem [ref=f34e269]:
+                        - link "AI Infra工程师(实习) 华为 深圳" [ref=f34e270] [cursor=pointer]:
+                          - /url: /job_detail/5f072babf147f0090nZ839--EFZS.html
+                          - generic [ref=f34e271]:
+                            - generic [ref=f34e272]: AI Infra工程师(实习)
+                            - paragraph
+                          - generic [ref=f34e273]:
+                            - generic [ref=f34e274]: 华为
+                            - generic [ref=f34e277]: 深圳
+                      - listitem [ref=f34e278]:
+                        - link "ai开发工程师(实习) 华为 深圳" [ref=f34e279] [cursor=pointer]:
+                          - /url: /job_detail/9d20d37b7d5a75430nZy2tu0EVpQ.html
+                          - generic [ref=f34e280]:
+                            - generic [ref=f34e281]: ai开发工程师(实习)
+                            - paragraph
+                          - generic [ref=f34e282]:
+                            - generic [ref=f34e283]: 华为
+                            - generic [ref=f34e286]: 深圳
+                      - listitem [ref=f34e287]:
+                        - link "大模型应用实习生-剪映 深圳字节跳动 深圳" [ref=f34e288] [cursor=pointer]:
+                          - /url: /job_detail/4d69302d771d6e670nB-3ti_FlpS.html
+                          - generic [ref=f34e289]:
+                            - generic [ref=f34e290]: 大模型应用实习生-剪映
+                            - paragraph
+                          - generic [ref=f34e291]:
+                            - generic [ref=f34e292]: 深圳字节跳动
+                            - generic [ref=f34e295]: 深圳
+                      - listitem [ref=f34e296]:
+                        - link "Agent实习 灵光绘梦科技有限公司 深圳" [ref=f34e297] [cursor=pointer]:
+                          - /url: /job_detail/71813db3de16694b0ndy2d25FFFX.html
+                          - generic [ref=f34e298]:
+                            - generic [ref=f34e299]: Agent实习
+                            - paragraph
+                          - generic [ref=f34e300]:
+                            - generic [ref=f34e301]: 灵光绘梦科技有限公司
+                            - generic [ref=f34e304]: 深圳
+                - generic [ref=f34e305]:
+                  - generic [ref=f34e306] [cursor=pointer]
+                  - generic [ref=f34e307] [cursor=pointer]
+                  - generic [ref=f34e308] [cursor=pointer]
+                  - generic [ref=f34e309] [cursor=pointer]
+                  - generic [ref=f34e310] [cursor=pointer]
+            - generic [ref=f34e313]:
+              - generic [ref=f34e314]:
+                - generic [ref=f34e315] [cursor=pointer]: 深圳
+                - paragraph [ref=f34e318]:
+                  - textbox "搜索职位、公司" [ref=f34e319]: Python
+              - button "搜索" [ref=f34e320] [cursor=pointer]
+          - generic [ref=f34e322]:
+            - generic [ref=f34e323]:
+              - generic [ref=f34e324] [cursor=pointer]: 城市招聘
+              - generic [ref=f34e325] [cursor=pointer]: 热门职位
+              - generic [ref=f34e326] [cursor=pointer]: 推荐公司
+              - generic [ref=f34e327] [cursor=pointer]: 热门企业
+            - generic [ref=f34e329]:
+              - link "吴忠招聘" [ref=f34e330] [cursor=pointer]:
+                - /url: /c101170300/
+              - link "攀枝花招聘" [ref=f34e331] [cursor=pointer]:
+                - /url: /c101270200/
+              - link "宜昌招聘" [ref=f34e332] [cursor=pointer]:
+                - /url: /c101200900/
+              - link "临高招聘" [ref=f34e333] [cursor=pointer]:
+                - /url: /c101311300/
+              - link "北京招聘" [ref=f34e334] [cursor=pointer]:
+                - /url: /c101010100/
+              - link "恩施土家族苗族自治州招聘" [ref=f34e335] [cursor=pointer]:
+                - /url: /c101201300/
+              - link "淮南招聘" [ref=f34e336] [cursor=pointer]:
+                - /url: /c101220400/
+              - link "盘锦招聘" [ref=f34e337] [cursor=pointer]:
+                - /url: /c101071300/
+              - link "绵阳招聘" [ref=f34e338] [cursor=pointer]:
+                - /url: /c101270400/
+              - link "广州招聘" [ref=f34e339] [cursor=pointer]:
+                - /url: /c101280100/
+          - generic [ref=f34e340]:
+            - link "首页" [ref=f34e341] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f34e342]:
+              - link "深圳招聘" [ref=f34e343] [cursor=pointer]:
+                - /url: /c101280600/
+              - text: ·
+              - link "Python招聘" [ref=f34e344] [cursor=pointer]:
+                - /url: /p100109/
+            - link "深圳Python招聘" [ref=f34e345] [cursor=pointer]:
+              - /url: /c101280600-p100109/
+            - link "向纺未来Python招聘" [ref=f34e346] [cursor=pointer]:
+              - /url: /job_detail/b3519f0a64d156a70nZz2tm8FFJS.html
+          - paragraph [ref=f34e347]: 页面更新时间：2026-09-08
+  - generic [ref=f34e349]:
+    - generic [ref=f34e350]:
+      - paragraph [ref=f34e351]: 企业服务热线和算法/未成年人等举报渠道 400 065 5799
+      - paragraph [ref=f34e352]: 老年人直连热线400 661 6030
+      - paragraph [ref=f34e353]: 工作日 8:00 - 22:00
+      - paragraph [ref=f34e354]: 休息日 8:00 - 22:00
+      - paragraph [ref=f34e355]:
+        - link [ref=f34e356] [cursor=pointer]:
+          - /url: https://www.weibo.com/bosszhipin
+        - link [ref=f34e357] [cursor=pointer]:
+          - /url: javascript:;
+        - link [ref=f34e358] [cursor=pointer]:
+          - /url: https://app.zhipin.com
+        - link "boss直聘电脑端下载" [ref=f34e359] [cursor=pointer]:
+          - /url: https://www.zhipin.com/desktop/
+    - generic [ref=f34e360]:
+      - generic [ref=f34e361]:
+        - term [ref=f34e362]: 企业服务
+        - definition [ref=f34e363]:
+          - link "职位搜索" [ref=f34e364] [cursor=pointer]:
+            - /url: https://www.zhipin.com/job_detail/
+          - link "BOSS直聘APP" [ref=f34e365] [cursor=pointer]:
+            - /url: https://app.zhipin.com/
+          - link "投资者关系 Investor Relations" [ref=f34e366] [cursor=pointer]:
+            - /url: https://ir.zhipin.com/
+          - link "直品公益基金会" [ref=f34e367] [cursor=pointer]:
+            - /url: https://gongyi.zhipin.com/home
+          - link "求职技巧" [ref=f34e368] [cursor=pointer]:
+            - /url: https://www.zhipin.com/web/common/geo/article-list.html
+      - generic [ref=f34e369]:
+        - term [ref=f34e370]: 使用与帮助
+        - definition [ref=f34e371]:
+          - link "协议与规则" [ref=f34e372] [cursor=pointer]:
+            - /url: https://about.zhipin.com/agreement
+          - link "隐私政策" [ref=f34e373] [cursor=pointer]:
+            - /url: https://about.zhipin.com/agreement?id=personalinfopro
+          - link "防骗指南" [ref=f34e374] [cursor=pointer]:
+            - /url: https://www.zhipin.com/web/common/protocol/cheat-guide.html
+          - link "使用帮助" [ref=f34e375] [cursor=pointer]:
+            - /url: https://www.zhipin.com/web/common/protocol/use-help.html
+      - generic [ref=f34e376]:
+        - term [ref=f34e377]: 联系BOSS直聘
+        - definition [ref=f34e378]:
+          - paragraph [ref=f34e379]: 北京华品博睿网络技术有限公司
+          - paragraph [ref=f34e380]: 公司地址 北京市朝阳区太阳宫中路16号院1号楼18层1801内09
+          - paragraph [ref=f34e381]:
+            - text: 违法和不良信息举报邮箱/未成年人举报渠道
+            - link "jubao@kanzhun.com" [ref=f34e382] [cursor=pointer]:
+              - /url: mailto:jubao@kanzhun.com
+    - paragraph [ref=f34e384]:
+      - generic [ref=f34e385]: Copyright © 2026 BOSS直聘
+      - link "京ICP备14013441号-5" [ref=f34e387] [cursor=pointer]:
+        - /url: https://beian.miit.gov.cn/
+      - generic [ref=f34e388]: 京ICP证150923号
+      - link "电子营业执照" [ref=f34e390] [cursor=pointer]:
+        - /url: https://www.zhipin.com/web/common/protocol/business-license.html
+      - link "京公网安备11010502032801" [ref=f34e392] [cursor=pointer]:
+        - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502032801
+      - link "朝阳网警" [ref=f34e394] [cursor=pointer]:
+        - /url: https://sdwj.zhipin.com/web/index.html
+      - link "人力资源服务许可证" [ref=f34e396] [cursor=pointer]:
+        - /url: https://www.zhipin.com/web/common/protocol/hr-service.html
+      - link "网上有害信息举报专区" [ref=f34e398] [cursor=pointer]:
+        - /url: https://www.12377.cn
+      - generic [ref=f34e399] [cursor=pointer]: 朝阳区人社局监督电话
+      - link "算法备案信息" [ref=f34e401] [cursor=pointer]:
+        - /url: https://about.zhipin.com/agreement?id=b9f73536711c4928bde84337cb53aa91
+  - text: 正在加载中 正在加载中
+  - iframe
+  - text: 前往App 与BOSS随时沟通

@@ -1,0 +1,144 @@
+- generic [active] [ref=f16e1]:
+  - generic [ref=f16e4]:
+    - generic [ref=f16e5]:
+      - generic [ref=f16e6]:
+        - link [ref=f16e7] [cursor=pointer]:
+          - /url: https://www.shixiseng.com
+        - list [ref=f16e8]:
+          - listitem [ref=f16e9]:
+            - link "首页" [ref=f16e10] [cursor=pointer]:
+              - /url: https://www.shixiseng.com
+          - listitem [ref=f16e11]:
+            - link "校招" [ref=f16e12] [cursor=pointer]:
+              - /url: https://resume.shixiseng.com/xiaozhao
+          - listitem [ref=f16e13]:
+            - link "实习僧TV" [ref=f16e14] [cursor=pointer]:
+              - /url: https://live.shixiseng.com
+          - listitem [ref=f16e16]:
+            - link "实习僧教育" [ref=f16e17] [cursor=pointer]:
+              - /url: https://edu.shixiseng.com/pc/px1
+          - listitem [ref=f16e18]:
+            - link "职位百科" [ref=f16e19] [cursor=pointer]:
+              - /url: https://baike.shixiseng.com/zwbk
+        - generic [ref=f16e21]:
+          - link "企业入口" [ref=f16e22] [cursor=pointer]:
+            - /url: https://hr.shixiseng.com
+          - generic [ref=f16e23]: 登录/注册
+      - text: 
+    - generic [ref=f16e25]:
+      - generic [ref=f16e26]:
+        - generic [ref=f16e27]:
+          - generic [ref=f16e28]: AI Agent算法实习生（企业智能）
+          - generic [ref=f16e29]: 2026-08-28 12:04:01 刷新
+          - generic [ref=f16e30]: 400-800/天 北京 博士 5天／周 实习4个月 提供转正机会
+          - generic [ref=f16e31]:
+            - generic [ref=f16e32]: 免费三餐
+            - generic [ref=f16e33]: 环境好
+            - generic [ref=f16e34]: 宠物日
+            - generic [ref=f16e35]: 下午茶
+          - generic [ref=f16e36]:
+            - generic [ref=f16e37] [cursor=pointer]
+            - generic "分享到微信" [ref=f16e39] [cursor=pointer]
+          - generic [ref=f16e41]:
+            - generic [ref=f16e43] [cursor=pointer]
+            - generic [ref=f16e45] [cursor=pointer]: 扫码手机查看
+            - generic [ref=f16e46] [cursor=pointer]: 当前职位已下线
+        - generic [ref=f16e47]:
+          - generic [ref=f16e48]:
+            - generic [ref=f16e49]:
+              - generic [ref=f16e50]: 职位描述：
+              - generic [ref=f16e51]: 工作职责： 企业智能部Intelligence Lab是小红书面向 AI-native 组织建设的创新团队，聚焦企业级 AI Agent、AI-native 管理产品、智能工作流与组织智能方向。我们希望通过大模型和 Agent 技术，帮助公司提升决策、管理和协同效率，让工作回归创造。 本岗位面向 AI Agent 算法方向，适合对大模型应用、Agent、RAG、工具调用、模型评测、上下文工程等方向有强兴趣，并希望在真实业务场景中做算法落地的同学。 1、参与企业级 AI Agent 能力建设，包括任务拆解、工具调用、上下文管理、结果校验、多轮交互、记忆机制等模块的实验和优化。 2、参与小红书内部 AI-native 产品和 Agent 场景落地，覆盖 OKR、经营分析、知识协同、数据分析、业务诊断、工作流自动化等方向。 3、参与大模型应用算法实验，包括 Prompt 优化、RAG 优化、工具选择、Agentic Workflow、多 Agent 协作等。 4、参与 Agent 评测体系建设，包括构建评测集、设计评测指标、分析 badcase、总结优化策略，并推动效果迭代。 5、参与大模型应用中的 Prompt / RAG / Tool Use / 多 Agent 协作 / 记忆与状态管理等算法模块建设，并推动在产品中落地。 任职资格： 1、本科及以上在读，计算机、人工智能、自然语言处理、机器学习、数据科学、数学、统计学等相关专业优先。 2、对大模型、AI Agent、RAG、Tool Use、Prompt Engineering、模型评测等方向有强兴趣。 3、具备较好的 Python 编程能力，熟悉常见机器学习 / 深度学习 / NLP 基础，有相关项目经验优先。 4、有大模型应用开发或算法实验经验者优先，例如知识库问答、Agent、数据分析助手、自动化工作流、SQL 生成、信息抽取等。 5、具备较强的学习能力、问题拆解能力和实验意识，能够通过数据和 badcase 分析推动效果优化。 6、沟通表达清晰，有责任心，能与产品、研发、数据、业务同学协作推进项目。 7、每周可实习 4 天及以上，连续实习 3 个月以上；可实习 6 个月以上优先。 【加分项】 有 RAG、检索排序、知识图谱、Prompt 优化、模型评测、SQL 生成、数据分析 Agent 等项目经验。 有论文、竞赛、开源项目或高质量课程项目经历，方向包括 NLP、IR、LLM、Agent、推荐、数据挖掘等。 对企业效率工具、组织管理、数据分析、知识协同、工作流自动化等场景有兴趣。 有较强的产品 sense，能从用户真实问题出发思考 Agent 能力如何落地，而不只是调模型接口。 【你将获得】 实习转正，优先拿到正式offer！ 参与小红书企业智能核心项目，接触真实复杂业务场景中的 AI Agent 算法问题。 深入参与大模型应用从实验、评测、优化到产品落地的全过程。 与 Product Lab、Research Lab、AI Workflow FDE 协作，理解 AI Agent 如何在企业内部规模化应用。 快速积累 Agent 算法、RAG、上下文工程、模型评测和 AI-native 产品落地经验。
+            - generic [ref=f16e53]:
+              - generic [ref=f16e54]: 投递要求：
+              - generic [ref=f16e55]: 简历要求： 中文
+              - generic [ref=f16e56]: 截止日期：2026-10-10
+            - generic [ref=f16e57]:
+              - generic [ref=f16e58]: 工作地点：
+              - text: 亚运村街道安定路五号院7号楼中海国际大厦A座+B座
+            - generic [ref=f16e59]: 求职中若出现虚假宣传，收取财物等违法情况。请立即举报
+            - paragraph [ref=f16e61] [cursor=pointer]: 当前职位已下线
+          - generic [ref=f16e63]:
+            - generic [ref=f16e64]: 公司简介
+            - generic [ref=f16e65]:
+              - generic [ref=f16e66]:
+                - link:
+                  - /url: javascript:;
+                  - img [ref=f16e67] [cursor=pointer]
+                - link "小红书" [ref=f16e68] [cursor=pointer]:
+                  - /url: javascript:;
+                - generic [ref=f16e70]: “标记我的生活”
+              - generic [ref=f16e71]: 互联网招聘
+              - generic [ref=f16e73]:
+                - generic [ref=f16e74]:
+                  - generic [ref=f16e75]: 
+                  - text: 互联网/游戏/软件
+                - generic [ref=f16e76]:
+                  - generic [ref=f16e77]: 
+                  - text: 民营企业
+                - generic [ref=f16e78]:
+                  - generic [ref=f16e79]: 
+                  - text: 2000人以上
+                - generic [ref=f16e80]:
+                  - generic [ref=f16e81]: 
+                  - text: 上海市/上海
+      - generic: 
+      - text: 
+    - generic [ref=f16e84]:
+      - generic [ref=f16e85]:
+        - generic [ref=f16e86]:
+          - generic [ref=f16e87]: 产品服务
+          - link "找实习" [ref=f16e89] [cursor=pointer]:
+            - /url: https://www.shixiseng.com
+          - link "找校招" [ref=f16e91] [cursor=pointer]:
+            - /url: https://resume.shixiseng.com/xiaozhao
+          - link "看空宣" [ref=f16e93] [cursor=pointer]:
+            - /url: https://live.shixiseng.com
+        - generic [ref=f16e94]:
+          - generic [ref=f16e95]: 旗下产品
+          - link "实习僧" [ref=f16e97] [cursor=pointer]:
+            - /url: https://www.shixiseng.com
+          - link "实习僧TV" [ref=f16e99] [cursor=pointer]:
+            - /url: https://live.shixiseng.com
+          - link "实习僧题库" [ref=f16e101] [cursor=pointer]:
+            - /url: https://exam.shixiseng.com
+          - link "职场说" [ref=f16e103] [cursor=pointer]:
+            - /url: https://ac.shixiseng.com/newvolcano/act_86m7popchfun
+        - generic [ref=f16e104]:
+          - generic [ref=f16e105]: 关于我们
+          - link "了解我们" [ref=f16e107] [cursor=pointer]:
+            - /url: //www.shixiseng.com/about
+          - link "加入我们" [ref=f16e109] [cursor=pointer]:
+            - /url: https://mshare.jobs.feishu.cn/index
+          - link "免责声明" [ref=f16e111] [cursor=pointer]:
+            - /url: https://www.shixiseng.com/rule
+          - link "专项治理" [ref=f16e113] [cursor=pointer]:
+            - /url: https://pages.shixiseng.com/html/zxzl
+        - generic [ref=f16e114]:
+          - generic [ref=f16e115]: 联系我们
+          - generic [ref=f16e116]: 实习僧公众号
+          - generic [ref=f16e118]: 客户服务
+          - link "商务合作" [ref=f16e123] [cursor=pointer]:
+            - /url: javascript:;
+      - generic [ref=f16e124]:
+        - generic [ref=f16e125]:
+          - text: ©2015-2026 实习僧|
+          - link "蜀ICP备13010980号" [ref=f16e127] [cursor=pointer]:
+            - /url: //beian.miit.gov.cn
+          - text: "|"
+          - generic [ref=f16e128]:
+            - text: 联系我们：
+            - link "sxs@shixiseng.com" [ref=f16e129] [cursor=pointer]:
+              - /url: Mailto:sxs@shixiseng.com
+        - generic [ref=f16e130]: 成都萌想科技有限责任公司版权所有 中国专注实习、校招垂直招聘平台
+        - link "川公网安备 51019002001179号" [ref=f16e131] [cursor=pointer]:
+          - /url: //www.beian.gov.cn/portal/registerSystemInfo?recordcode=51019002001179
+        - link "经营资质" [ref=f16e133] [cursor=pointer]:
+          - /url: https://resume.shixiseng.com/credentials
+  - generic [ref=f16e143]:
+    - link "短信登录" [ref=f16e144] [cursor=pointer]:
+      - /url: "#"
+    - link "密码登录" [ref=f16e145] [cursor=pointer]:
+      - /url: "#"
+    - generic "使用新浪微博账号登录" [ref=f16e146] [cursor=pointer]: 微博登录
+    - generic "使用腾讯QQ账号登录" [ref=f16e147] [cursor=pointer]: QQ登录
+  - text:  

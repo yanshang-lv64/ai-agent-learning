@@ -1,0 +1,47 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - button "跳至内容" [ref=e3] [cursor=pointer]
+    - button "辅助功能反馈" [ref=e6] [cursor=pointer]
+    - generic [ref=e9]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: /?FORM=Z9FD1
+        - heading "返回到必应搜索" [level=1] [ref=e11]
+      - search [ref=e12]:
+        - button "搜索" [ref=e15] [cursor=pointer]
+        - searchbox "在此处输入你的搜索 — 输入时会显示搜索建议" [ref=e16]: site:zhipin.com/job_detail Agent 实习 Python
+        - button "使用图像搜索" [ref=e19] [cursor=pointer]
+    - complementary "帐户奖励和偏好设置" [ref=e21]:
+      - button "Microsoft Rewards" [ref=e22] [cursor=pointer]
+      - link "登录" [ref=e23] [cursor=pointer]:
+        - /url: javascript:void(0)
+    - navigation "主菜单" [ref=e25]:
+      - list [ref=e26]:
+        - listitem [ref=e27]:
+          - link "全部" [ref=e28] [cursor=pointer]:
+            - /url: /?scope=web&FORM=HDRSC1
+        - listitem [ref=e29]:
+          - link "搜索" [ref=e30] [cursor=pointer]:
+            - /url: /copilotsearch?q=site%3azhipin.com%2fjob_detail+Agent+%e5%ae%9e%e4%b9%a0+Python&FORM=CSSCOP
+        - listitem [ref=e33]:
+          - link "图片" [ref=e34] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=c7d045df757d97e1f6a7ea749762baab331a40bf534bd6db37260aff9dcaa26bJmltdHM9MTc4ODkxMjAwMA&ptn=3&ver=2&hsh=4&fclid=3fd746c6-3102-6431-3a35-5109301465fe&u=a1L2ltYWdlcy9zZWFyY2g_cT1zaXRlJTNhemhpcGluLmNvbSUyZmpvYl9kZXRhaWwrQWdlbnQrJWU1JWFlJTllJWU0JWI5JWEwK1B5dGhvbiZGT1JNPUhEUlNDMg&ntb=1
+        - listitem [ref=e35]:
+          - link "视频" [ref=e36] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=193f696bdfea198e5af04b982aaa4b6303ad6092d620c771114c0536d7ee06abJmltdHM9MTc4ODkxMjAwMA&ptn=3&ver=2&hsh=4&fclid=3fd746c6-3102-6431-3a35-5109301465fe&u=a1L3ZpZGVvcy9zZWFyY2g_cT1zaXRlJTNhemhpcGluLmNvbSUyZmpvYl9kZXRhaWwrQWdlbnQrJWU1JWFlJTllJWU0JWI5JWEwK1B5dGhvbiZGT1JNPUhEUlNDMw&ntb=1
+        - listitem [ref=e37]:
+          - link "地图" [ref=e38] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=bd0187e36aa2ee50402be07e5b1b0c6f94ebbdf243a24cfb920444da73e09b21JmltdHM9MTc4ODkxMjAwMA&ptn=3&ver=2&hsh=4&fclid=3fd746c6-3102-6431-3a35-5109301465fe&u=a1L21hcHM_cT1zaXRlJTNhemhpcGluLmNvbSUyZmpvYl9kZXRhaWwrQWdlbnQrJWU1JWFlJTllJWU0JWI5JWEwK1B5dGhvbiZGT1JNPUhEUlNDNA&ntb=1
+        - listitem [ref=e39]:
+          - link "资讯" [ref=e40] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=8c362e8407b6edde7b7f19ef131fc1548494a3b8de410314c355ed4bb6cc7513JmltdHM9MTc4ODkxMjAwMA&ptn=3&ver=2&hsh=4&fclid=3fd746c6-3102-6431-3a35-5109301465fe&u=a1L25ld3Mvc2VhcmNoP3E9c2l0ZSUzYXpoaXBpbi5jb20lMmZqb2JfZGV0YWlsK0FnZW50KyVlNSVhZSU5ZSVlNCViOSVhMCtQeXRob24mRk9STT1IRFJTQzY&ntb=1
+        - listitem [ref=e41]:
+          - button [ref=e42] [cursor=pointer]
+  - contentinfo [ref=e46]:
+    - generic [ref=e47]:
+      - list:
+        - listitem [ref=e48]:
+          - link "隐私" [ref=e49] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=61e00a2e0e4799f3e9c9b3907c5c42aa0960a435f89b1dca76a9012848f3af07JmltdHM9MTc4ODkxMjAwMA&ptn=3&ver=2&hsh=4&fclid=3fd746c6-3102-6431-3a35-5109301465fe&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSWQ9NTIxODM5&ntb=1
+        - listitem [ref=e50]:
+          - link "条款" [ref=e51] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=519c65abd3a41eec8662f1b8911ebedff3291792eb28b274fe9c8a92a1b27137JmltdHM9MTc4ODkxMjAwMA&ptn=3&ver=2&hsh=4&fclid=3fd746c6-3102-6431-3a35-5109301465fe&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSUQ9MjQ2MzM4&ntb=1
